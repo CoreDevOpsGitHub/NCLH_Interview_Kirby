@@ -1,0 +1,1208 @@
+<html lang="en" style="" class="flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js no-mobile desktop no-ie chrome chrome84 shore-excursions-section w-1200 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 lt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded" id="search-page"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+        <meta charset="utf-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <title>Alaska Cruises |  Vancouver, British Columbia |   Shore Excursions | Norwegian Cruise Line</title>
+
+
+            <!--StyleSheet-->
+        <link rel="stylesheet" href="/static/styles/bootstrap.css?v=1594740520459" media="all">
+        <link rel="stylesheet" href="/static/styles/ie10in.css?v=1594740520459" media="all">
+        <link rel="stylesheet" href="/assets/v1/styles/redesign.css?v=1594740520459" media="all">
+            <!--[if lte IE 10]>
+        <link rel="stylesheet" href="/shore-excursions/assets/stylesheets/ie10in.min.css?v=1594740520459" media="all">
+            <![endif]-->
+            <!--JavaScript-->
+
+        <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_351" src="//static.hotjar.com/c/hotjar-1207708.js?sv=6"></script><script async="" src="https://s.pinimg.com/ct/lib/main.b3497531.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-701488714&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-9706277&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-3145433&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_389" src="https://sc-static.net/scevent.min.js"></script><script type="text/javascript" src="//universal.iperceptions.com/wrapper.js"></script><script type="text/javascript" async="" src="//uqddyyxa.micpn.com/p/js/1.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_245" src="//cdn.datasteam.io/js/D2D8E4A6591C7B.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_197" src="https://s.pinimg.com/ct/core.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_84" src="//bat.bing.com/bat.js"></script><script type="text/javascript" async="" charset="utf-8" id="tealium-tag-7110" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_431" src="//www.googletagmanager.com/gtm.js?id=GTM-TM94GFD&amp;l=dataLayer"></script><script type="text/javascript" async="" charset="utf-8" id="utag_405" src="//js.adsrvr.org/up_loader.1.1.0.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_285" src="https://www.googletagmanager.com/gtag/js?id=AW-1017367666"></script><script src="https://connect.facebook.net/signals/config/798296406850522?v=2.9.22&amp;r=stable" async=""></script><script type="text/javascript" async="" charset="utf-8" id="utag_78" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.js" type="text/javascript" async=""></script><script>
+// akam-sw.js install script version 1.3.3
+"serviceWorker"in navigator&&"find"in[]&&function(){var e=new Promise(function(e){"complete"===document.readyState||!1?e():(window.addEventListener("load",function(){e()}),setTimeout(function(){"complete"!==document.readyState&&e()},1e4))}),n=window.akamServiceWorkerInvoked,r="1.3.3";if(n)aka3pmLog("akam-setup already invoked");else{window.akamServiceWorkerInvoked=!0,window.aka3pmLog=function(){window.akamServiceWorkerDebug&&console.log.apply(console,arguments)};function o(e){(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"sm.sw.s":e,"sm.sw.v":r}])}var i="/akam-sw.js",a=new Map;navigator.serviceWorker.addEventListener("message",function(e){var n,r,o=e.data;if(o.isAka3pm)if(o.command){var i=(n=o.command,(r=a.get(n))&&r.length>0?r.shift():null);i&&i(e.data.response)}else if(o.commandToClient)switch(o.commandToClient){case"enableDebug":window.akamServiceWorkerDebug||(window.akamServiceWorkerDebug=!0,aka3pmLog("Setup script debug enabled via service worker message"),p());break;case"boomerangMQ":o.payload&&(window.BOOMR_mq=window.BOOMR_mq||[]).push(o.payload)}aka3pmLog("akam-sw message: "+JSON.stringify(e.data))});var t=function(e){return new Promise(function(n){var r,o;r=e.command,o=n,a.has(r)||a.set(r,[]),a.get(r).push(o),navigator.serviceWorker.controller&&(e.isAka3pm=!0,navigator.serviceWorker.controller.postMessage(e))})},c=function(e){return t({command:"navTiming",navTiming:e})},s=null,m={},d=function(){var e=i;return s&&(e+="?othersw="+encodeURIComponent(s)),function(e,n){return new Promise(function(r,i){aka3pmLog("Registering service worker with URL: "+e),navigator.serviceWorker.register(e,n).then(function(e){aka3pmLog("ServiceWorker registration successful with scope: ",e.scope),r(e),o(1)}).catch(function(e){aka3pmLog("ServiceWorker registration failed: ",e),o(0),i(e)})})}(e,m)},g=ServiceWorkerContainer.prototype.register;if(ServiceWorkerContainer.prototype.register=function(n,r){return n.includes(i)?g.call(this,n,r):(aka3pmLog("Overriding registration of service worker for: "+n),s=new URL(n,window.location.href),m=r,navigator.serviceWorker.controller?new Promise(function(n,r){var o=navigator.serviceWorker.controller.scriptURL;if(o.includes(i)){var a=encodeURIComponent(s);o.includes(a)?(aka3pmLog("Cancelling registration as we already integrate other SW: "+s),navigator.serviceWorker.getRegistration().then(function(e){n(e)})):e.then(function(){aka3pmLog("Unregistering existing 3pm service worker"),navigator.serviceWorker.getRegistration().then(function(e){e.unregister().then(function(){return d()}).then(function(e){n(e)}).catch(function(e){r(e)})})})}else aka3pmLog("Cancelling registration as we already have akam-sw.js installed"),navigator.serviceWorker.getRegistration().then(function(e){n(e)})}):g.call(this,n,r))},navigator.serviceWorker.controller){var u=navigator.serviceWorker.controller.scriptURL;u.includes("/akam-sw.js")||u.includes("/akam-sw-preprod.js")||u.includes("/threepm-sw.js")||(aka3pmLog("Detected existing service worker. Removing and re-adding inside akam-sw.js"),s=new URL(u,window.location.href),e.then(function(){navigator.serviceWorker.getRegistration().then(function(e){m={scope:e.scope},e.unregister(),d()})}))}else e.then(function(){window.akamServiceWorkerPreprod&&(i="/akam-sw-preprod.js"),d()});if(window.performance){var w=window.performance.timing,l=w.responseEnd-w.responseStart;c(l)}e.then(function(){t({command:"pageLoad"})});var k=!1;function p(){window.akamServiceWorkerDebug&&!k&&(k=!0,aka3pmLog("Initializing debug functions at window scope"),window.aka3pmInjectSwPolicy=function(e){return t({command:"updatePolicy",policy:e})},window.aka3pmDisableInjectedPolicy=function(){return t({command:"disableInjectedPolicy"})},window.aka3pmDeleteInjectedPolicy=function(){return t({command:"deleteInjectedPolicy"})},window.aka3pmGetStateAsync=function(){return t({command:"getState"})},window.aka3pmDumpState=function(){aka3pmGetStateAsync().then(function(e){aka3pmLog(JSON.stringify(e,null,"\t"))})},window.aka3pmInjectTiming=function(e){return c(e)},window.aka3pmUpdatePolicyFromNetwork=function(){return t({command:"pullPolicyFromNetwork"})})}p()}}();</script>
+<script type="text/javascript">
+            window.tealiumMain = 'main';
+            window.tealiumEnvironment = 'prod';
+             window.analyticsShorexDestination="Alaska Cruises"; window.analyticsShorexPort="VAN"; window.analyticsChannel="shorex"; window.analyticsSiteCatalystTag="on"; window.analyticsShorexResults="1"; window.analyticsPageName="shorex: search: results";
+        </script>
+
+        <!--[if lte IE 9]>
+        <script type="text/javascript" src="/static/scripts/compatibility/ncl.ie9.compatibility.js?v=1594740520459"></script>
+        <![endif]-->
+        <!--[if lte IE 10]>
+        <script type="text/javascript" src="/static/scripts/compatibility/ncl.ie10.compatibility.js?v=1594740520459"></script>
+        <![endif]-->
+        <script type="text/javascript" src="/regional_settings.js?v=1594740520459"></script>
+        <script type="text/javascript" src="/static/scripts/ncl.shorex.libraries.js?v=1594740520459"></script>
+        <script type="text/javascript" src="/static/scripts/ncl.resources.js?v=1594740520459"></script>
+        <script type="text/javascript" src="/static/scripts/ncl.shorex.scripts.js?v=1594740520459"></script>
+
+        <script type="text/javascript" src="/assets/v1/scripts/redesign.js?v=1588198619626"></script>
+
+        <script type="text/javascript">var ftRandom = Math.random() * 1000000; document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="//servedby.flashtalking.com/container/1414;13281;1050;iframe/?spotName=NORW_Homepage&cachebuster=' + ftRandom + '"></iframe>');</script><urscrub><script type="text/javascript" async="" defer="" src="https://cdn.userreplay.net/us18230f9114c46b7a9c473ec77a99cfc8a_v295.js"></script></urscrub><script type="text/javascript" async="" src="https://norwegiancruiseline.mpeasylink.com/mpel/mpel_toggle.js"></script><style type="text/css"> #page-vacations-details .vacations-details > .bx-wrapper { padding:0 29px; } #page-vacations-details .vacations-details > .bx-wrapper .tabs-details li { max-width:120px; } #page-vacations-details .vacations-details > .bx-wrapper .bx-controls.bx-has-controls-direction { display:none; } </style><link id="dnsprefetchlink" rel="dns-prefetch" href="//no22i2axzjkdcxyraerq-f-cba834a17-clientnsv4-s.akamaihd.net"><script async="" src="//resources.xg4ken.com/js/v2/ktag.js?tid=KT-N42DE-3EB"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_244" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.244.js?utv=ut4.45.202005261457"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_4" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.4.js?utv=ut4.45.201710301523"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_84" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.84.js?utv=ut4.45.201701241817"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_197" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.197.js?utv=ut4.45.201711071817"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_245" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.245.js?utv=ut4.45.201912101500"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_260" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.260.js?utv=ut4.45.201808301544"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_351" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.351.js?utv=ut4.45.202003061659"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_357" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.357.js?utv=ut4.45.201909182225"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_389" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.389.js?utv=ut4.45.201907241845"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_401" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.401.js?utv=ut4.45.202001171457"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_403" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.403.js?utv=ut4.45.201912061502"></script><script type="text/javascript" async="" charset="utf-8" id="utag_ncl.main_439" src="//tags.tiqcdn.com/utag/ncl/main/prod/utag.439.js?utv=ut4.45.202005211346"></script><script type="text/javascript" async="" charset="utf-8" id="tiqapp" src="//tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ncl/main/202007162105&amp;nocookie=1"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1017367666/?random=1594949929518&amp;cv=9&amp;fst=1594949929518&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1440&amp;u_ah=877&amp;u_aw=1440&amp;u_cd=30&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;tiba=Alaska%20Cruises%20%7C%20Vancouver%2C%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1017367666/?random=1594949929519&amp;cv=9&amp;fst=1594949929519&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1440&amp;u_ah=877&amp;u_aw=1440&amp;u_cd=30&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dpage_view&amp;frm=0&amp;url=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;tiba=Alaska%20Cruises%20%7C%20Vancouver%2C%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1017367666/?random=1594949929560&amp;cv=9&amp;fst=1594949929560&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470&amp;u_h=900&amp;u_w=1440&amp;u_ah=877&amp;u_aw=1440&amp;u_cd=30&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dconversion&amp;frm=0&amp;url=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;tiba=Alaska%20Cruises%20%7C%20Vancouver%2C%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/701488714/?random=1594949929565&amp;cv=9&amp;fst=1594949929565&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=900&amp;u_w=1440&amp;u_ah=877&amp;u_aw=1440&amp;u_cd=30&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;tiba=Alaska%20Cruises%20%7C%20Vancouver%2C%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/701488714/?random=1594949929566&amp;cv=9&amp;fst=1594949929566&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=900&amp;u_w=1440&amp;u_ah=877&amp;u_aw=1440&amp;u_cd=30&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa783&amp;sendb=1&amp;ig=1&amp;data=event%3Dconversion&amp;frm=0&amp;url=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;tiba=Alaska%20Cruises%20%7C%20Vancouver%2C%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><link href="https://service.force.com/embeddedservice/5.0/esw.min.css" type="text/css" rel="stylesheet"><script async="" src="https://script.hotjar.com/modules.dc5594fdf0b76dcb331c.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><style id="inert-style">
+[inert] {
+	pointer-events: none;
+	cursor: default;
+}
+
+[inert], [inert] * {
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+</style><style>._hj-mMo1P__styles__resetStyles * {
+  line-height: normal;
+  font-family: Arial, sans-serif, Tahoma !important;
+  text-transform: initial !important;
+  letter-spacing: normal !important; }
+
+._hj-mMo1P__styles__resetStyles *::before,
+._hj-mMo1P__styles__resetStyles *::after {
+  box-sizing: initial; }
+
+._hj-mMo1P__styles__resetStyles div {
+  height: auto; }
+
+._hj-mMo1P__styles__resetStyles div,
+._hj-mMo1P__styles__resetStyles span,
+._hj-mMo1P__styles__resetStyles p,
+._hj-mMo1P__styles__resetStyles a,
+._hj-mMo1P__styles__resetStyles button {
+  font-weight: normal !important; }
+
+._hj-mMo1P__styles__resetStyles div,
+._hj-mMo1P__styles__resetStyles span,
+._hj-mMo1P__styles__resetStyles p,
+._hj-mMo1P__styles__resetStyles a,
+._hj-mMo1P__styles__resetStyles img,
+._hj-mMo1P__styles__resetStyles strong,
+._hj-mMo1P__styles__resetStyles form,
+._hj-mMo1P__styles__resetStyles label {
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+  float: none !important; }
+
+._hj-mMo1P__styles__resetStyles span {
+  color: inherit; }
+
+._hj-mMo1P__styles__resetStyles ol,
+._hj-mMo1P__styles__resetStyles ul,
+._hj-mMo1P__styles__resetStyles li {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important; }
+
+._hj-mMo1P__styles__resetStyles li:before,
+._hj-mMo1P__styles__resetStyles li:after {
+  content: none !important; }
+
+._hj-mMo1P__styles__resetStyles hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
+
+._hj-mMo1P__styles__resetStyles input[type='submit'],
+._hj-mMo1P__styles__resetStyles input[type='button'],
+._hj-mMo1P__styles__resetStyles button {
+  margin: 0;
+  padding: 0;
+  float: none !important; }
+
+._hj-mMo1P__styles__resetStyles input,
+._hj-mMo1P__styles__resetStyles select,
+._hj-mMo1P__styles__resetStyles a img {
+  vertical-align: middle; }
+
+._hj-10MNR__styles__globalStyles *,
+._hj-10MNR__styles__globalStyles *::before,
+._hj-10MNR__styles__globalStyles *::after {
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'hotjar';
+  src: url(https://script.hotjar.com/font-hotjar_5.fdcf0e.eot);
+  src: url(https://script.hotjar.com/font-hotjar_5.fdcf0e.eot#iefix) format("embedded-opentype"), url(https://script.hotjar.com/font-hotjar_5.c9fb91.woff2) format("woff2"), url(https://script.hotjar.com/font-hotjar_5.8598c5.ttf) format("truetype"), url(https://script.hotjar.com/font-hotjar_5.6da396.woff) format("woff"), url(https://script.hotjar.com/font-hotjar_5.a6049d.svg#hotjar) format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@keyframes _hj-CvZ6d__styles__spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+
+@keyframes _hj-19ojv__styles__colors {
+  0% {
+    border-color: #f4364c;
+    border-top-color: transparent; }
+  25% {
+    border-color: #00a2f2;
+    border-top-color: transparent; }
+  50% {
+    border-color: #efb60c;
+    border-top-color: transparent; }
+  75% {
+    border-color: #42ca49;
+    border-top-color: transparent; }
+  100% {
+    border-color: #f4364c;
+    border-top-color: transparent; } }
+
+._hj-10MNR__styles__globalStyles p {
+  color: inherit !important; }
+
+._hj-10MNR__styles__globalStyles a,
+._hj-10MNR__styles__globalStyles a:link,
+._hj-10MNR__styles__globalStyles a:hover,
+._hj-10MNR__styles__globalStyles a:active {
+  color: inherit !important;
+  text-decoration: underline; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon {
+  speak: none !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  word-wrap: normal !important;
+  white-space: nowrap !important;
+  line-height: normal !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  vertical-align: middle !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:before,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:after,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *:before,
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon *:after {
+  font-family: 'hotjar' !important;
+  display: inline-block !important;
+  direction: ltr !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-1EbBs__styles__icon:before {
+  color: inherit !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-WPdPO__styles__iconX:before {
+  content: '\E803'; }
+
+._hj-10MNR__styles__globalStyles ._hj-2WW4P__styles__iconOk:before {
+  content: '\E804'; }
+
+._hj-10MNR__styles__globalStyles ._hj-34EZP__styles__iconError:before {
+  content: '\E90C'; }
+
+._hj-10MNR__styles__globalStyles ._hj-lAAAw__styles__iconLogo:before {
+  content: '\E806'; }
+
+._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block !important;
+  zoom: 1;
+  vertical-align: middle; }
+
+._hj-widget-theme-light ._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-image: url(https://script.hotjar.com/widget_icons_light.ddcd59.png); }
+
+._hj-widget-theme-dark ._hj-10MNR__styles__globalStyles ._hj-FxxIA__styles__surveyIcons {
+  background-image: url(https://script.hotjar.com/widget_icons_dark.3a8118.png); }
+
+._hj-10MNR__styles__globalStyles ._hj-1oY0c__styles__inputField {
+  font-family: Arial, sans-serif, Tahoma;
+  font-size: 14px;
+  color: #333 !important;
+  padding: 6px !important;
+  text-indent: 0 !important;
+  height: 30px;
+  width: 100%;
+  min-width: 100%;
+  background: white;
+  border: 1px solid !important;
+  outline: none !important;
+  max-width: none !important;
+  float: none;
+  border-radius: 3px; }
+
+._hj-10MNR__styles__globalStyles ._hj-2xXAa__styles__textarea {
+  resize: none;
+  height: 100px; }
+
+._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton {
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px 10px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  vertical-align: top;
+  width: auto;
+  zoom: 1;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  color: white; }
+  ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:hover, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:hover, ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:focus, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:focus, ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton:active, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:active {
+    background: #00a251; }
+  ._hj-10MNR__styles__globalStyles ._hj-12tLZ__styles__basicButton[disabled], ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton[disabled] {
+    cursor: default; }
+
+._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton {
+  font-size: 13px !important;
+  font-weight: bold !important;
+  padding: 7px 10px !important;
+  border: 0 !important;
+  outline: 0 !important;
+  min-height: initial !important;
+  width: auto !important;
+  min-width: initial !important;
+  background: #00c764 !important; }
+  ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:hover, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:focus, ._hj-10MNR__styles__globalStyles ._hj-21tno__styles__primaryButton:active {
+    background: #00a251 !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton {
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 13px !important;
+  padding: 7px 10px !important;
+  border: 0 !important; }
+  ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:hover, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:focus, ._hj-10MNR__styles__globalStyles ._hj-2VnCa__styles__clearButton:active {
+    background: transparent !important; }
+
+._hj-10MNR__styles__globalStyles ._hj-29HmU__styles__answersContentWrapper {
+  padding: 0 12px 12px 12px; }
+
+._hj-10MNR__styles__globalStyles ._hj-1KgX2__styles__spinner {
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  border-top-color: transparent !important;
+  border-radius: 50%;
+  transform: rotate(0deg);
+  animation: _hj-CvZ6d__styles__spin 0.4s linear infinite, _hj-19ojv__styles__colors 5.6s ease-in-out infinite; }
+
+._hj-2xXAa__styles__textarea { }
+
+._hj-WPdPO__styles__iconX,
+._hj-2WW4P__styles__iconOk,
+._hj-34EZP__styles__iconError,
+._hj-lAAAw__styles__iconLogo { }
+
+._hj-3v_Mp__styles__rtl,
+._hj-3v_Mp__styles__rtl * {
+  direction: rtl !important; }
+</style><style>._hj-3Qhhk__Notification__container {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif, Tahoma !important;
+  transition-duration: 350ms;
+  opacity: 0;
+  transform: scale(0.9);
+  display: flex;
+  background: #263345;
+  border-radius: 2px;
+  position: fixed;
+  z-index: 2147483646;
+  top: 20px;
+  left: 20px;
+  width: 400px;
+  padding: 25px;
+  box-shadow: "0 2px 4px 0 rgba(0,0,0,.3)"; }
+  ._hj-3Qhhk__Notification__container * {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif, Tahoma !important; }
+
+._hj-ldyOW__Notification__active {
+  opacity: 1;
+  transform: scale(1); }
+
+._hj-3e98A__Notification__status {
+  margin: 0 20px 0 0;
+  border-radius: 50%;
+  min-width: 50px;
+  height: 50px;
+  box-shadow: "0 2px 4px 0 rgba(0,0,0,.3)"; }
+
+._hj-2rMkS__Notification__good {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABOCAYAAADIHIO3AAAAAXNSR0IArs4c6QAAB85JREFUeAHtnWmMFEUUgKcQEUFY1IBGVIhG4z9PVBQN8YpHQliEhaAGJYQYr0SNxn/4w6iJASGGoEYURcWAXIIciwZBwOgqkYQfGhPPxINTw+Gqu5Tfa7omvbM7R09Xd9dsdyVv6+g63nvfVE91V/esKuQhFg9orfvS8XXIjci5yNmIhH3Ib8gWZLNS6iBxHpL2AICGIfOQA1ofI6okupMKq5ArktYzs+PhbIU8hRyqDKccOL2ctqdl1oFJGI6DByIr6gMUBKd/op+rktA5c2PILEC+ig7JANNH6O/qzDkyToNx6Kl2IRVh7aPfi+LUPTN9+5C+tDeTDCQT652M0cc4tJgwBXlc3QM4cAi1NhUK+vLqteutoS+l5UzTWplEHtfmgQCkBJbUag9aDedaqyOfUbXx8WoBqYlEKzMpAUgypB7Gn5sklYMSL9QQApBG1VDdZpUW6SwHVYNLgTSYahv5hF9ZQ3XbVS6WDnNQVdwKpEFUEUhpXYieJyrmi4kKoAKQRleolsAh1TefUWXc7EPawExKG9JhVn2dOageQAHpFIrXA+maHg4nXXRABsxBlbg9AOnakkNpZdtk4BxUwP1AGkh2HTNpTKA47SSn33wxUYQQgHR9sTD1hGpHhZF8R/2Rzyg8AaQBRGtJOQTJ+5QsEEiSyvzy3If0IZDGeq5x5o/6E1UuBNReUSnTMwpIJ+ODNQ5C6kSvKQZSpkEFIN0gjnAsPAkk7oZkPAgkZFN8m35m86+eWD+dcTzHzQdQf6TVUUjP5JDwgA9po6OQnrUOyTf4HGK51dIQAV1PQjY4Cuk5K07EwCbkPkSe6tzf1Vh54FDO9/phRHYknQvoJZDWd9W7nu+PONro5yM7zDfwceISOOUU9qDNor7cinEi+DascxTSC5GdhIEjkF31Gah3S/vISkTsAB36IWvrs6Hch9FWuZ4d0TzvS3cUBu6JZqD+nT5Se+LTh7Qmmg22oJT2o+fYgCSLBJxc2nk9ed1OX9MjKxWyAx/SB3ZsqMfuSm303JDmdK+OgSciFp+jNgrr+dJ39xHtl/g2rHYU0jwrFmPkg/EZqLfSf6yrQh8SK1PzAXEp1i/ZgiSvjlg65ZVzkP6FMWJ5eNGHtNJRSPOjQgrePR/PMuKMqB1Wbq/l9chPceq0yvXCHaU/eQ3zPfTHBteCehmNHoqqVRBUc9TOamuv++PQRThXXp8UB0cKAUgTInUUS2P1Ct0+wJ1wHbX74sYhBrNR5T1bHbXPEO3VJ1RuCe67hGgs9+4E9BL0nhimXTJ11auMc78NSKKvBwqDeXdU70/GgNJR1M+UNGPQztIjlfI+pHfRe1KleukcU68x7kxbkMQGc+pL8S6Cllf7t+H4u0WhWgJ1T6De245CWohuViGJTwwo2fpNMciWuF4MgDk+hLK6BCBNLlsptQPqDYa2DknMMaAOpWZbl4H1o2TZ1NOndyn2Mz6kxUCd0tPxdMvUm4w/g9PdsTj0MN9RrMQKf+GAfnEMEr5P9SNt5Hvra9PWh/QWOk41Ze7EHqTpcUESO70ZxQDyoF+bO4brkeiyHTjezCEWPRc5ConvykKskOi/ELyO+Yi8K89bo4r3UOQSIF1G5kzyNS82qJ9QUO8w0L1xziRjSPA66iwKf8Ahjpz+jIquxorrt8I9QEpkIWYWEwUG/JWB+aLOQ3UPKG5XJQdJ9CnOKMlwmpHV1i5SwyWfh548oJZSOjWpmWQ0KM4oKWBwuTtxF6lEprNRonFitUz8kzQk8U8XUFKAEluIWkj9K/k8GA+o5aRkJnWYkiTjLqe+4MCcBm8mv5LToDNPFAX1SzatVjDe5LQgia1lQclBYMmLxvIG3hDJZzOoVdgtd/j/S9P+iqBEMWDJD1LwZkHcm4ppuqHc2Go1RyalDUm0qwpKKgHrAiIuiL073VKUgaDWYOSdLkASZ3dbTPREAGW/o3wMXL/t6XjvK1O8JlqY6Aok8W9NM8qAYGYNJd3KzLrElPW+WPGaaGECkJxa9dY0owwMlN9Leix8t5uy3hUrfgTEO905BUl8HAqUNAAW2yGFW0ixwOhNQW3AGtla+cdFq0KDEiMw5ijROFLvu2hUeJ28D52zkMSeukBJQ2DJ6YH9IvW65Bs3qE3oPh572l22oW5QYhTGyT3BGaRedNnI8ropLjkK41yHJPpHAiUdYKRGHiM1S/KNE9TH6NoQkMSnoZbn1SCwfH+EOnNZvlvtt9q44Y+rzbS5gw/Y3+HbptPCukOBNQ1TFgJLnr1zMHhP5wokWRA1TLAOSiwHVjORPLTv2La+t4Vze6NBEp/GAko6BpZj2yRqK2oJpCOiX6OF2ECJI4A1msiBbRK1DT1uA9Jh0asRQ6ygxCHASnmbxLvddWsjQxI/xg7Kh5XSNonawfgCyZFHtsUbjgdmlrxt/01yr27qHYw3yHG3uKkejhuK8H+Ryr3ja6tcf8Y4g930QoNohQPld5V4j9cWlNJ+9Oc5JEsfBhw5AInhl770F/TbZEnNvBvxAA6V3ylaam9m6Tb6y/DTUjF+rnBsH2RBdFgyO/OZFCOq413j5CeQo/UB07Np6+h9xdhdl/wAOHsEsgzpqA2Y/FBinP8MMnkfVBoxkQveSgqUHsP58usxLYjcKzwfGYnIbvJB5HukFVnHRexu4syE/wEDavfJf4zW9AAAAABJRU5ErkJggg==") no-repeat 52% 53% #3acc40;
+  background-size: 25px 18px; }
+
+._hj-38oE1__Notification__bad {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAB4CAYAAADsduKfAAAAAXNSR0IArs4c6QAABEZJREFUaAXtWt9vDUEU7q2iQjVtpEFDECqER31AIoKQePEm4qEvnohI/waJRLz5IzzwJqVJk4YI6YsIFVGiqVaFVlDakP7g+r65O9vd7uze2d05bTR7ku/O7OyZ891z5szsr6mpWSQp2fCUy+U66B0AtgAtwGpgDPgMDJRKpVGU2QUE7cBtYAKIk7848Ri4CKxMxYYOG4A7QFrpQ4dtVmRQbAPepWUI6I+jvjGRDAqbgbFAp6zVe7FEsLgCeJjVsqHf6SBZbeDgAupHAsd5q7Tni0pv/BuWA0CbfyZ/ZRYmWpH6X2hKe3QSdZcktM1UP8oKRRMdqxw6/z2oLWqiw7rBcekT6TH6BYI1jklobhJjtJ6VWiRCPUoJEtpvgP0mVhi6ZlYEZSttk2idIAlNt/KHRH9YEZS1tE0iTixJYQ4oohlJFthWiUaPmNqSwqux8ui3JAtsK0dqMaE4RnOCZD9pm6GjTFYKkV9le1kRLU3oFKvICHnjr8doQoiEZkPJ8EOIaBrTR6080h7500YTSXn0TUdKE33XDY5LPnEokSYaX3ZEkdD5g6ZddVQuXeik0jvskXfx8yeXo7DRTGSM2Cgxl8IekQXimmgGkfIXaz1hJYh8b2i8IGIUbMXPOHYoQmcbNuoVoUsTrZBubOhcXpPKoFSvZjR1ML1dXiomvCuC5pmfR44vFaF1jmxBj3jsagUPjY8k0aJ5tGhEReiYL5mkCF2msPFxMrKcSawMkTnEv/tfE0UyzuSRfwubaXQqnaqHzrtU5CWz8oj/aSSHN+z60dR/YTJQZ9ikmKLN+GFxSYlep/j3C1V5U/JmYSOPTR71mxQt24aRUMZXciailzDKf5ZFnsd1ihB561RWrx5YE3mKvXEdqrT3xJ2PeOQpdsV1SGh/hWjwg6S98CsmMASkkcv2DAFNMFxKwfIeuurzTcCEXRUd+VnuiQXZLHSO21mN0YIBfqPrSiD7inMnYrqHmtVXy1CL4QDG2tF8FtgO8FPdB6APuIUEkP4sBJpCiggUESgiUEQgFAHb1XsXenGjCvdkNQN80OI99lOs3i9QZhdcGlYBV4C3QJKM4uRVoDE1GzodAoaANMKL4DlrMih3ANNAVrmOjslDAoUzAHcA5pVrsZ7B8l5gKi9DoP95IxkUugNKLqrcENigydSdKhq4d+uUbnRUtsBOp7alb4l5hyMhfhaq7IBHg2DZIcEEmzsxqQd5N1qHA96vScluGmboGMvkvKdmdlFbSUlEjyRF2SdR6I27AKOyzw1I3OlkfMB1RPqJdugR5VGlcP47BYvPaFUTdTunqBjsRcTmd7shxZsALvOuJbotFQydjlnuG6MEEm5avuuIjM+0m4xEbMTJeqAnJ9kI+qvVIJbII+OjfweQdt83H5pvAOmeztGhEbgJzAHVhE/v+5M8qLrGwUATDOwLYA/qfG/K90V8QdWPFB5GmSj/AFf+LeTG2bgWAAAAAElFTkSuQmCC") no-repeat center center #ea4031;
+  background-size: 6px 30px; }
+
+._hj-1Zxo9__Notification__warning {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAB4CAYAAADsduKfAAAAAXNSR0IArs4c6QAABEZJREFUaAXtWt9vDUEU7q2iQjVtpEFDECqER31AIoKQePEm4qEvnohI/waJRLz5IzzwJqVJk4YI6YsIFVGiqVaFVlDakP7g+r65O9vd7uze2d05bTR7ku/O7OyZ891z5szsr6mpWSQp2fCUy+U66B0AtgAtwGpgDPgMDJRKpVGU2QUE7cBtYAKIk7848Ri4CKxMxYYOG4A7QFrpQ4dtVmRQbAPepWUI6I+jvjGRDAqbgbFAp6zVe7FEsLgCeJjVsqHf6SBZbeDgAupHAsd5q7Tni0pv/BuWA0CbfyZ/ZRYmWpH6X2hKe3QSdZcktM1UP8oKRRMdqxw6/z2oLWqiw7rBcekT6TH6BYI1jklobhJjtJ6VWiRCPUoJEtpvgP0mVhi6ZlYEZSttk2idIAlNt/KHRH9YEZS1tE0iTixJYQ4oohlJFthWiUaPmNqSwqux8ui3JAtsK0dqMaE4RnOCZD9pm6GjTFYKkV9le1kRLU3oFKvICHnjr8doQoiEZkPJ8EOIaBrTR6080h7500YTSXn0TUdKE33XDY5LPnEokSYaX3ZEkdD5g6ZddVQuXeik0jvskXfx8yeXo7DRTGSM2Cgxl8IekQXimmgGkfIXaz1hJYh8b2i8IGIUbMXPOHYoQmcbNuoVoUsTrZBubOhcXpPKoFSvZjR1ML1dXiomvCuC5pmfR44vFaF1jmxBj3jsagUPjY8k0aJ5tGhEReiYL5mkCF2msPFxMrKcSawMkTnEv/tfE0UyzuSRfwubaXQqnaqHzrtU5CWz8oj/aSSHN+z60dR/YTJQZ9ikmKLN+GFxSYlep/j3C1V5U/JmYSOPTR71mxQt24aRUMZXciailzDKf5ZFnsd1ihB561RWrx5YE3mKvXEdqrT3xJ2PeOQpdsV1SGh/hWjwg6S98CsmMASkkcv2DAFNMFxKwfIeuurzTcCEXRUd+VnuiQXZLHSO21mN0YIBfqPrSiD7inMnYrqHmtVXy1CL4QDG2tF8FtgO8FPdB6APuIUEkP4sBJpCiggUESgiUEQgFAHb1XsXenGjCvdkNQN80OI99lOs3i9QZhdcGlYBV4C3QJKM4uRVoDE1GzodAoaANMKL4DlrMih3ANNAVrmOjslDAoUzAHcA5pVrsZ7B8l5gKi9DoP95IxkUugNKLqrcENigydSdKhq4d+uUbnRUtsBOp7alb4l5hyMhfhaq7IBHg2DZIcEEmzsxqQd5N1qHA96vScluGmboGMvkvKdmdlFbSUlEjyRF2SdR6I27AKOyzw1I3OlkfMB1RPqJdugR5VGlcP47BYvPaFUTdTunqBjsRcTmd7shxZsALvOuJbotFQydjlnuG6MEEm5avuuIjM+0m4xEbMTJeqAnJ9kI+qvVIJbII+OjfweQdt83H5pvAOmeztGhEbgJzAHVhE/v+5M8qLrGwUATDOwLYA/qfG/K90V8QdWPFB5GmSj/AFf+LeTG2bgWAAAAAElFTkSuQmCC") no-repeat center center #f39c11;
+  background-size: 6px 30px; }
+
+._hj-1h3WZ__Notification__content {
+  color: #dedede;
+  font-size: 13px; }
+
+._hj-2KcMV__Notification__title {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 4px; }
+
+._hj-3-rwN__Notification__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 22px;
+  color: white;
+  cursor: pointer;
+  line-height: 11px; }
+</style></head><body ng-app="NCLShorexApp" class="ng-scope"><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="//servedby.flashtalking.com/container/1414;13281;1050;iframe/?spotName=NORW_Homepage&amp;cachebuster=166838.48067571572"></iframe>
+
+        
+
+        <script>
+                /*
+                 Adding this because 110_app.js and 160_jquery_complete will fail if this property isn't available.
+                 This property was removed in from jquery in version 1.9. We are using a later version. Those scripts
+                 need to be updated to fail gracefully if the property doesn't exist.
+                 */
+                try {
+                    $.browser = {} ;
+
+                    $(document).ready(function () {
+                        try {
+                            $('a.sign-up-form' ).each(function() { //for the inside scoop referer
+                                $(this).attr ('href', $ (this).attr ('href') + '?ref=' + window.location) ;
+                            }) ;
+                        } catch(err){
+                            if (console) console.log('error changing href');
+                        }
+                    }) ;
+                } catch(err) {
+                    if (console) console.log('error attaching handler');
+                }
+        </script>
+            <!--Favicon-->
+        <link rel="shortcut icon" type="image/png" href="/resources/images/favicon/favicon.png?v=1594740520459">
+        <link rel="icon" type="image/png" href="/resources/images/favicon/windows-icon-24x24.png?v=1594740520459">
+        <link rel="icon" type="image/png" href="/resources/images/favicon/windows-icon-32x32.png?v=1594740520459">
+        <link rel="apple-touch-icon" href="/resources/images/favicon/apple-touch-icon-128x128.png?v=1594740520459">
+        <link rel="apple-touch-icon" sizes="54x54" href="/resources/images/favicon/apple-touch-icon-54x54.png?v=1594740520459">
+        <link rel="apple-touch-icon" sizes="57x57" href="/resources/images/favicon/apple-touch-icon-57x57.png?v=1594740520459">
+        <link rel="apple-touch-icon" sizes="72x72" href="/resources/images/favicon/apple-touch-icon-72x72.png?v=1594740520459">
+        <link rel="apple-touch-icon" sizes="114x114" href="/resources/images/favicon/apple-touch-icon-114x114.png?v=1594740520459">
+        <link rel="apple-touch-icon" sizes="128x128" href="/resources/images/favicon/apple-touch-icon-128x128.png?v=1594740520459">
+        <link rel="canonical" href="https://www.ncl.com/shore-excursions">
+
+    
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"true","rua.cpush":"false","rua.upre":"true","rua.cpre":"true","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-65883240-7079-4be6-9845-b2de7d988ec6","rua.cook":"true","rua.ims":"false","rua.ufprl":"true","rua.cfprl":"true"}]);</script>
+  <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="true"=="true"?1:0,t="cookiepresent",a="no22i2axzjkdcxyraerq-f-cba834a17-clientnsv4-s.akamaihd.net",i={"ak.v":"27","ak.cp":"792180","ak.ai":parseInt("225862",10),"ak.ol":"0","ak.cr":3,"ak.ipv":4,"ak.proto":"h2","ak.rid":"431d50c6","ak.r":20029,"ak.a2":n,"ak.m":"x","ak.n":"essl","ak.bpcip":"107.181.164.0","ak.cport":27532,"ak.gh":"23.201.103.219","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1594949923","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==0DxO7Gpdt1fz75B8nigZkuOj9F5zkP8mPW4pOlImdNKWUB6lOHKRerUD21bf/yCbQwSFzPzYyk7RYpu15g1C9jJutg6UBlBhNiQLkyOw4+dWd4rr8xycjUl0SGHwB8YwVqPZo3XMHUMhVy/OHoK59+qEEwhnKc0B6z3wNwF8MyfTksavS4l0jGIQafYG3onejeTYZi/VLxCCHBHrKrhWBH8FzuS5XT7mA8dS9xqISgl/dZfDfXpbzE7yRv2bQBW0y6c8r6bbjmso3FigFZRikiT/NSrSqu7nxSccLUayimTu0c4YBYjN1AnzcNeJg2j9ohhatjS6TDVeYhtmIpqmR9Cxq/YucsZ0Sv0SIsD0rYc4X3gC7fINFnX/WuBlGhaZRZ1IEojfK6pQyrREzH7gweJJYprX3Hwr8lho9+7DO2s=","ak.pv":"507"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="https://s.go-mpulse.net/boomerang/TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y" rel="preload" as="script">
+    
+
+        
+
+    <!-- Start of UR Capture Code -->
+    <script type="text/javascript" src="/resources/javascripts/custom/userreplay/user-replay-prod-2.1.4.js" async=""></script>
+    <!-- End of UR Capture Code -->
+
+        <script>/*Copyright 2011-2015 iPerceptions, Inc. All rights reserved. Do not distribute.iPerceptions provides this code 'as is' without warranty of any kind, either express or implied. */ window.iperceptionskey = '2dad496a-8e40-423a-b5de-c7693ae73da9';(function () { var a = document.createElement('script'),b = document.getElementsByTagName('body')[0]; a.type = 'text/javascript'; a.async = true;a.src = '//universal.iperceptions.com/wrapper.js';b.appendChild(a);})();</script><script type="text/javascript" async="" src="//universal.iperceptions.com/wrapper.js"></script>
+         <div class="redesign"> <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.ncl.com",
+      "name": "Norwegian Cruise Line"
+    }
+},{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.ncl.com/shore-excursions",
+      "name": "Shore excursions"
+    }
+},{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.ncl.com/shore-excursions/search",
+      "name": "Search"
+    }
+}]
+}
+</script> <header id="header" class="js-header header ng-scope" ng-app="NCLTransitionApp" ng-controller="FavoritesBrowseCtrl" data-analytics-region="utility_header" data-header="default"><!-- m5 --><!-- mp_trans_remove_start --><div class="compatibility"><div class="assistive"><a class="assistive-link" href="http://assistivesite.ncl.com/" title="For assistive view, visit, http://assistivesite.ncl.com/, or click here."><div class="assistive-text">For assistive view, visit, http://assistivesite.ncl.com/</div></a></div></div><!-- mp_trans_remove_end --><!-- m4 --><section class="m4 bg-dark -bg-dark" style="display: none"><div class="wrapper"><div class="container"><div class="m4_body"><ul id="alerts" class="listing"><li class="listing_item"><!-- c8 --><div class="c8"><div class="c8_header"><span class="linkText -large c8_header_item">News Alert</span><span class="simpleText c8_header_item">July 2, 2016</span></div><div class="collapse multi-collapse" data-parent="#alerts"><div class="c8_body"><div class="paragraph -medium"></div></div></div></div></li></ul></div><div class="m4_aside"><a class="linkText -large icon-plus-less collapsed" href="#" data-toggle="collapse-compatibility" data-target=".multi-collapse" aria-expanded="false" type="button" aria-controls="alerts" title="More Info" aria-label="More Info">More Info</a></div></div></div></section><section class="header_mobile visible-xs"><div class="wrapper"><div class="container"><div class="row align-items-center justify-content-between"><div class="col-auto"><ul class="listing -pipeRight"><li class="listing_item"><a class="pipeWrap-sm" href="#" title="Main menu" aria-label="Main menu" data-js="header-menu-open"><i class="nis-bars"></i></a></li></ul></div><div class="col-auto"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-shield.svg" alt="Norwegian Cruise Line"></a></div></div><div class="col-auto"><ul class="listing -pipeLeft"><li class="listing_item -mobile"><a class="pipeWrap-sm" href="tel:+1-866-234-7350" title="Phone number" aria-label="Phone number" data-phoneattribute="default"><i class="nis-phone-off"></i></a><a style="display:none !important" class="pipeWrap-sm" href="tel:+1-855-577-9489" title="Phone number" aria-label="Phone number" data-phoneattribute="nextJump"><i class="nis-phone-off"></i></a><a style="display:none !important" class="pipeWrap-sm" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="penn"><i class="nis-phone-off"></i></a><a style="display:none !important" class="pipeWrap-sm" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="caesar"><i class="nis-phone-off"></i></a><a style="display:none !important" class="pipeWrap-sm" href="tel:+1-877-474-2969" title="Phone number" aria-label="Phone number" data-phoneattribute="social"><i class="nis-phone-off"></i></a></li></ul></div></div></div></div></section><section class="header_desktop" data-js="header-desktop freeze"><div class="header_desktop_wrapper"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="header-close"><i class="close_icon nis-times"></i></a></div></div><div class="header_utility"><div class="mainUtility"><div class="wrapper"><div class="container"><div class="row align-items-center justify-content-between"><div class="col-auto hidden-xs"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-black.svg" alt="Norwegian Cruise Line"></a></div></div><div class="col align-self-stretch"><!-- m15 --><section class="m15 -expandable" data-js="auto-close"><div class="m15_wrap"><!-- c13 --><div class="c13"><div class="c13_header visible-xs"><!--c230--><div class="c230 -variant-1"><div class="c230_header -left"><a class="close" href="#" title="Close" aria-label="Close" v-on:click="$event.preventDefault(); open = !open; $emit('update-results', filterType)" data-js="freeze"><i class="close_icon nis-arrow-left"></i></a></div></div></div><div class="c13_body"><!-- c19 --><div class="c19"><div class="c19_header"><!-- e2 --><div class="e2"><div class="e2_icon"><i class="nis-search"></i></div><div class="e2_field"><div class="input-group"><input type="text" class="form-control" placeholder="Search NCL.com" v-model="searchTerm" ref="searchTermInput" autocomplete="off"></div></div></div></div><div class="c19_body"><div class="c19_results"><div class="c19_results_block"><!-- e4 --><div class="e4"><ul class="listing"><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11-Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) &amp; Alaska | Norwegian Cruise Line</a></li></ul></div></div></div></div></div></div><div class="c13_footer"><!-- c20 --><div class="c20 "><div class="row flex-fill align-items-center"><div class="col-auto order-1"><div class="c20_total" v-bind:class="{ 'switchOut': updateResultsMessage }"><span class="c20_total_item ng-binding"></span><span class="c20_total_item ng-binding"></span></div></div><div class="col-auto order-3 flex-fill"><ul class="listing"><li class="listing_item"><a class="linkText -small" href="#" title="View All Results" aria-label="View All Results" data-js="viewAllNCLSearchResults">View All Results</a></li></ul></div></div></div></div></div></div></section></div><div class="col-md-auto"><ul class="listing -pipeLeft"><li class="listing_item" data-js="header-util-search"><a class="linkNav pipeWrap-lg" href="#" title="Search" aria-label="Search" data-js="toggle-siteSearch"><i class="linkNav_icon nis-search"></i></a></li><li class="listing_item"><a class="linkNav pipeWrap-lg" href="#" title="Favorites" aria-label="Favorites" ng-click="toggleFavorites($event)"><i class="linkNav_icon icon-favorite" ng-class="{ '-active': getTotalFavorites() + getTotalItineraries() > 0 }"></i></a></li><li class="listing_item hide" title="My Reservations" aria-label="My Reservations" data-js="logged-in-suitcase"><a class="linkNav pipeWrap-lg" href="#" data-js="logged-in-suitcase-link"><i class="linkNav_icon icon-suitcase" data-js="logged-in-suitcase-icon"></i></a></li><li class="listing_item hide" data-js="logged-in"><div class="drophover"><a class="linkNav pipeWrap-lg -icon" href="#" title="My NCL" aria-label="My NCL"><i class="linkNav_icon nis-user"></i><span>My NCL</span></a><div class="drophover_menu -right"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-2 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><!-- c11 --><div class="c11"><div class="c11_header"><div class="c11_header_item"><a class="c11_avatar" href="#" title="User Picture" aria-label="User Picture" data-js="logged-in-initials logged-in-view-account"><span class="sr-only"></span></a></div><div class="c11_header_item"><span class="headline -small" data-js="logged-in-first-name"></span></div><div class="c11_header_item"><a class="linkItem" href="#" title="View Account" aria-label="View Account" data-js="logged-in-view-account">View Account</a></div><div class="c11_header_item"><div class="paragraph" data-js="logged-in-latitudes"></div></div></div><div class="c11_body"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="#" title="Profile" aria-label="Profile" data-js="logged-in-view-profile">Profile</a></li><li class="listing_item"><a class="linkItem" href="#" title="Preferences" aria-label="Preferences" data-js="logged-in-view-preferences">Preferences</a></li><li class="listing_item"><a class="linkItem" href="#" title="Latitudes Rewards" aria-label="Latitudes Rewards" data-js="logged-in-view-latitudes">Latitudes Rewards</a></li><li class="listing_item hide"><a class="linkItem" href="#" title="Messages" aria-label="Messages">Messages<span class="badge" data-js="logged-in-messages"></span></a></li><li class="listing_item"><a class="linkItem" href="#" title="Log Out" aria-label="Log Out" data-js="logged-in-logout">Log Out</a></li></ul></div></div></div></div></div></li><li class="listing_item" data-js="logged-out"><div class="pipeWrap-lg"><ul class="listing -pipeCenter"><li class="listing_item"><a class="linkNav" href="/register" title="Register" aria-label="Register" data-js="register">Register</a></li><li class="listing_item"><a class="linkNav" href="/login" title="Log in" aria-label="Log in" data-js="login">Log in</a></li></ul></div></li></ul></div></div></div></div></div></div><div class="compatibility"><div class="shortcutArea hide" ng-class="{ 'hide': !favoritesVisible }"><div favorites-directive=""><!-- ngInclude: favoritesBrowseTemplateUrl --></div><!-- message content --><div class="shortcutMsgsContent hide" data-analytics-region="alert_messages"><div class="shortcutAreaHeader"><div class="container"><div class="shortcutName visible-desktops">Message Center (<span class="counter">0</span>)</div><div class="shortcutClose js-shortcutClose ngi-icon"></div></div></div><div class="shortcutAreaBody"><div class="container"><div class="shortcutName visible-phones">Message Center (<span class="counter">0</span>)</div><div class="msgsCenter"><div class="msgsLoading"><img src="/static/images/anime/ajax-loading.gif" alt="Loading"></div><div class="form-group msgsSelect closeWhenMsgOpen"><label class="control-label">View</label><select id="sortInbox" class="form-control"><option value="priority">All Messages</option><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="priority">Most Important</option></select></div><div class="msgsTable closeWhenMsgOpen"><table class="table"><thead><tr><th>From</th><th></th><th>Message</th><th>Reservation #</th><th>Date</th></tr></thead><tbody id="inboxTableContent"><tr><td>Norwegian Communications Center</td><td><img src="/static/images/icons/triangle-info-yellow.png"></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr class="unread"><td>Norwegian Communications Center</td><td></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Dining on sale - Exclusive Dining Offer</strong></a></div><div>Reserve your dining now</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr><td>Norwegian Communications Center</td><td><img src="/static/images/icons/triangle-info-yellow.png"></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr><td>Norwegian Communications Center</td><td> </td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr></tbody></table></div><div class="msgsPage closeWhenMsgOpen"><ul class="pagination"><li class="disabled"><a href="#">«</a></li><li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li><li><a href="#">2</a></li><li><a href="#">3</a></li><li><a href="#">4</a></li><li><a href="#">5</a></li><li><a href="#">»</a></li></ul></div><div class="msgsOpen openWhenMsgRead"><div class="msgsOpenHeader"><span><strong>From:</strong> <span class="msgFrom">Norwegian Comunications Center</span></span><span><strong>Sent:</strong> <span class="msgSent">May 21, 2014</span></span><span><strong>Subject:</strong> <span class="msgSubject">Beverage Packages Now On Sales</span></span></div><div class="msgsOpenBody"><p>*<a href="#" title="Terms &amp; Conditions"><strong>Terms &amp; Conditions</strong></a><br> Package not available on sailings less than 5 days or charter sailings.</p></div><div class="msgsOpenBack msgsLinks"><a href="#" title="Back To Messages"><strong><i class="ngi-icon-chevron-left"></i> Back To Messages</strong></a></div><div class="msgsLinks linkPackage visible-phones"><a href="#" title="Back To Messages"><strong> VIEW BEVERAGE PACKAGE <i class="ngi-icon-chevron-right"></i></strong></a></div></div></div></div></div></div></div></div><nav class="header_navigation" data-analytics-region="utility_header_nav" data-js="touch-scrolling"><div class="mainNavigation -solid" data-js="header-nav"><div class="wrapper"><div class="container"><div class="row justify-content-between"><div class="col-md-auto"><div class="navigationWrapper -left"><ul class="listing -inline"><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Why Norwegian" aria-label="Why Norwegian">Why Norwegian</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian" title="The Freestyle Experience">The Freestyle Experience</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-dining" title="Dining">Dining</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-entertainment" title="Entertainment">Entertainment</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-accommodations" title="Accommodations">Accommodations</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/family-cruises" title="Family Cruises">Family Cruises</a></li><li class="listing_item"><a class="linkItem" href="/latitudes-rewards-program" title="Latitudes Rewards">Latitudes Rewards</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Explore" aria-label="Explore">Explore</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/vacations" title="Find A Cruise">Find A Cruise</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations" title="Cruise Destinations">Cruise Destinations</a></li><li class="listing_item"><a class="linkItem" href="/cruise-ship" title="Cruise Ships">Cruise Ships</a></li><li class="listing_item"><a class="linkItem" href="/port-of-call" title="Ports">Ports</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/great-stirrup-cay" title="Norwegian's Private Island">Norwegian's Private Island</a></li><li class="listing_item"><a class="linkItem" href="/excursions" title="Shore Excursions">Shore Excursions</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/whats-onboard" title="Onboard Experience">Onboard Experience</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-packages-and-hotels" title="Land &amp; Sea Packages">Land &amp; Sea Packages</a></li><li class="listing_item"><a class="linkItem" href="/travel-blog" title="NCL Travel Blog">NCL Travel Blog</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Manage" aria-label="Manage">Manage</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/shorex/checkin" title="Check In">Check In</a></li><li class="listing_item"><a class="linkItem" href="/login" title="Already Booked?">Already Booked?</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/prepare-for-your-cruise" title="Prepare For Your Cruise">Prepare For Your Cruise</a></li><li class="listing_item"><a class="linkItem" href="/onboard-packages" title="Onboard Packages">Onboard Packages</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/getting-to-the-pier" title="Transfers &amp; Pier Directions">Transfers &amp; Pier Directions</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/cruise-travel-documents" title="Required Documents">Required Documents</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/booksafe" title="Travel Protection">Travel Protection</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Cruise Deals" aria-label="Cruise Deals">Cruise Deals</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/cruise-deals" title="All Cruise Deals">All Cruise Deals</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/choice" title="Free At Sea">Free At Sea</a></li><li class="listing_item"><a class="linkItem" href="/vacations?deals=free-kids" title="Kids Cruise Free Sailings">Kids Cruise Free Sailings</a></li><li class="listing_item"><a class="linkItem" href="/latitudes-rewards-program/insider-offer" title="Past Guest Offer">Past Guest Offer</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/sail-away-rates" title="Lowest Cruise Fares">Lowest Cruise Fares</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/choice/air-offer" title="Free or Reduced Air">Free or Reduced Air</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/solo-cruising" title="Solo Cruiser Discounts">Solo Cruiser Discounts</a></li><li class="listing_item"><a class="linkItem" href="/group-cruises" title="Group Cruise Discounts">Group Cruise Discounts</a></li></ul></div></div></div></div></li></ul></div></div><div class="col-md-auto"><div class="navigationWrapper -right"><ul class="listing -inline"><li class="listing_item"><div class="drophover"><a class="linkNav -icon" href="#" title="Help" aria-label="Help" data-js="drophover-toggle"><i class="linkNav_icon nis-help"></i><span>Help</span></a><div class="drophover_menu -right"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-1 visible-xs"><div class="c230_header left"><a class="close" href="#" title="Close" aria-label="Close" data-js="drophover-close"><i class="close_icon nis-arrow-left"></i></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/faq" title="FAQ">FAQ</a></li><li class="listing_item"><a class="linkItem" href="/recommend-vacations/start" title="Try Cruise Coach">Try Cruise Coach</a></li><li class="listing_item"><a class="linkItem" href="/new-to-cruising" title="New To Cruising">New To Cruising</a></li><li class="listing_item"><a class="linkItem" href="/help/leads" data-leads="true" title="Request A Call Back">Request A Call Back</a></li><li class="listing_item"><a class="linkItem" href="/about/contact-us" title="Contact Us">Contact Us</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="header_phone"><div class="drophover"><a class="linkNav -variant-1 -icon visible-lg" href="tel:+1-866-234-7350" title="Phone number" aria-label="Phone number" data-phoneattribute="default"><span style="font-size: .75rem; margin-right: 7px;">Call Now </span><i class="linkNav_icon nis-phone-on" style="display: none;"></i><span>1-866-234-7350</span></a><a style="display:none !important" class="linkNav -variant-1 -icon visible-lg" href="tel:+1-855-577-9489" title="Phone number" aria-label="Phone number" data-phoneattribute="nextJump"><span style="font-size: .75rem; margin-right: 7px;">Call Now </span><i class="linkNav_icon nis-phone-on" style="display: none;"></i><span>1-855-577-9489</span></a><a style="display:none !important" class="linkNav -variant-1 -icon visible-lg" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="penn"><span style="font-size: .75rem; margin-right: 7px;">Call Now </span><i class="linkNav_icon nis-phone-on" style="display: none;"></i><span>1-877-288-3037</span></a><a style="display:none !important" class="linkNav -variant-1 -icon visible-lg" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="caesar"><span style="font-size: .75rem; margin-right: 7px;">Call Now </span><i class="linkNav_icon nis-phone-on" style="display: none;"></i><span>1-877-288-3037</span></a><a style="display:none !important" class="linkNav -variant-1 -icon visible-lg" href="tel:+1-877-474-2969" title="Phone number" aria-label="Phone number" data-phoneattribute="social"><span style="font-size: .75rem; margin-right: 7px;">Call Now </span><i class="linkNav_icon nis-phone-on" style="display: none;"></i><span>1-877-474-2969</span></a><a class="linkNav -icon visible-md" href="#" title="Phone number" aria-label="Phone number" data-js="drophover-toggle"><i class="linkNav_icon nis-phone-off"></i></a><div class="drophover_menu -right visible-md"><div class="drophover_menu_wrap"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="tel:+1-866-234-7350" title="Phone number" aria-label="Phone number" data-phoneattribute="default"><span>Call at 1-866-234-7350</span></a><a style="display:none !important" class="linkItem" href="tel:+1-855-577-9489" title="Phone number" aria-label="Phone number" data-phoneattribute="nextJump"><span>Call at 1-855-577-9489</span></a><a style="display:none !important" class="linkItem" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="penn"><span>Call at 1-877-288-3037</span></a><a style="display:none !important" class="linkItem" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneattribute="caesar"><span>Call at 1-877-288-3037</span></a><a style="display:none !important" class="linkItem" href="tel:+1-877-474-2969" title="Phone number" aria-label="Phone number" data-phoneattribute="social"><span>Call at 1-877-474-2969</span></a></li></ul></div></div></div></div></li></ul></div></div></div></div></div></div></nav></div></section></header></div> 
+        <div id="pjax-container">
+        <section id="page-shore-excursions" class="page page-shore-excursions sap-menu-push">
+  <div class="shore-explore">
+    <div class="container">
+      <div class="breadcrumb-detail visible-desktops">
+        <h2>Shore Excursions</h2>
+      </div>
+      <section class="wrapper" id="shorexExplore">
+        <div class="content pull-right">
+          
+  <section class="wrapper">
+    <div class="featured-holders">
+      <div class="bx-wrapper" style="max-width: 5000px;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 329px;"><ul class="slider-holders" style="width: 1215%; position: relative; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+        
+
+          <li style="float: left; list-style: none; position: relative; width: 678px;" aria-hidden="false">
+            <figure class="holder">
+              
+                <!--mp_trans_disable_start-->
+                <a href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12" title="Vancouver City Tour">
+                   
+                 <img src="/sites/default/files/VAN_02revimg0513_lg.jpg">
+                   
+                </a>
+                <!--mp_trans_disable_end-->
+              
+              <figcaption>
+                
+                  <div class="featured">
+                    <i class="ngi-icon-star"><span>Start</span></i>Featured
+                  </div>
+                  
+                <div class="notes">
+                  <ul>
+                    <li class="first">
+                      <div class="paging">1 <small>of</small> 1 </div>
+                    </li>
+                    <li class="center">
+                      <h2>
+                      
+                          <!--mp_trans_disable_start-->
+                          <a href="/shore-excursions/VAN_02/Vancouver-City-Tour ?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12" title="Vancouver City Tour">Vancouver City Tour</a>
+                          <!--mp_trans_disable_end-->
+                      
+                      </h2>
+                      
+                        <h3>Vancouver, British Columbia</h3>
+                      
+                    </li>
+                    
+                      <li class="last">
+                      
+                        <div class="review">
+                          
+                            <a class="empty" title="No reviews yet" href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12">No reviews yet</a>
+                          
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </div>
+              </figcaption>
+            </figure>
+          </li>
+        
+      </ul></div></div>
+    </div>
+  </section>
+
+        </div>
+        <div class="sidebar sidebar-left">
+          <aside id="sap-menu-left" class="sap-menu-left vacations-filter">
+          
+<script>
+  var maxPrice = 3000;
+  var currencySymbol = "$";
+</script>
+
+<div class="search-filter"><div class="filter-count visible-desktops"><div class="infobox"><span class="column numb">1</span> <span class="column text">Shore Excursions</span></div></div> <div class="visible-phones filter-head"><ul class="options"><li><a title="Clear All" href="#" class="btn-cta btn-secondary clearall">Clear</a></li> <li><div class="info"><div class="title">Filter</div> <div class="other">(1)</div></div></li> <li><a title="Update Filter" href="#" class="btn-cta btn-primary">Done</a></li></ul></div> <div class="visible-desktops filter-head"><h2 class="head-title">Filter By</h2> <div class="head-link"><a href="#" title="Clear All Filters" class="link-clear">Clear All Filters</a></div></div> <div class="filter-options"><ul class="filter-widget widget-right"><li class=""><a href="#" tabindex="1" title="Destination" class="widget-link"><span class="link-text">Destination</span></a> <div class="widget-box"><div class="filterbox"><div class="visible-phones phones-header"><ul class="options"><li><a title="Clear All" class="btn-cta btn-secondary clearall">Clear</a> <!----></li> <li><div class="info"><div class="title">Destination</div> <div class="other">ALL (<span>1</span>)</div></div></li> <li><a href="#" title="Update Filter" class="btn-cta btn-primary">Done</a></li></ul></div> <div class="filter-header"><h3 class="title">Select One Or More Destinations</h3> <div class="close"><a href="#" title="Close"><i class="ngi-icon"></i></a></div></div> <div class="filter-content"><div class="listing"><div class="listing-wrap"><ul id="destinations" class="select" style="margin-top: 0px;"><li><input disabled="disabled" type="checkbox" id="destinations_Africa Cruises" class="checkbox" value="Africa Cruises"> <label for="destinations_Africa Cruises" class="option">Africa Cruises</label></li><li><input type="checkbox" id="destinations_Alaska Cruises" class="checkbox" value="Alaska Cruises"> <label for="destinations_Alaska Cruises" class="option">Alaska Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Asia Cruises" class="checkbox" value="Asia Cruises"> <label for="destinations_Asia Cruises" class="option">Asia Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Bahamas Cruises" class="checkbox" value="Bahamas Cruises"> <label for="destinations_Bahamas Cruises" class="option">Bahamas Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Bermuda Cruises" class="checkbox" value="Bermuda Cruises"> <label for="destinations_Bermuda Cruises" class="option">Bermuda Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Caribbean Cruises" class="checkbox" value="Caribbean Cruises"> <label for="destinations_Caribbean Cruises" class="option">Caribbean Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Extraordinary Journeys" class="checkbox" value="Extraordinary Journeys"> <label for="destinations_Extraordinary Journeys" class="option">Extraordinary Journeys</label></li><li><input type="checkbox" id="destinations_Hawaii Cruises" class="checkbox" value="Hawaii Cruises"> <label for="destinations_Hawaii Cruises" class="option">Hawaii Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Mediterranean Cruises" class="checkbox" value="Mediterranean Cruises"> <label for="destinations_Mediterranean Cruises" class="option">Mediterranean Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Mexican Riviera Cruises" class="checkbox" value="Mexican Riviera Cruises"> <label for="destinations_Mexican Riviera Cruises" class="option">Mexican Riviera Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Northern Europe Cruises" class="checkbox" value="Northern Europe Cruises"> <label for="destinations_Northern Europe Cruises" class="option">Northern Europe Cruises</label></li><li><input type="checkbox" id="destinations_Pacific Coastal Cruises" class="checkbox" value="Pacific Coastal Cruises"> <label for="destinations_Pacific Coastal Cruises" class="option">Pacific Coastal Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Panama Canal Cruises" class="checkbox" value="Panama Canal Cruises"> <label for="destinations_Panama Canal Cruises" class="option">Panama Canal Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_South America Cruises" class="checkbox" value="South America Cruises"> <label for="destinations_South America Cruises" class="option">South America Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Transatlantic Cruises" class="checkbox" value="Transatlantic Cruises"> <label for="destinations_Transatlantic Cruises" class="option">Transatlantic Cruises</label></li><li><input disabled="disabled" type="checkbox" id="destinations_Weekend Cruises" class="checkbox" value="Weekend Cruises"> <label for="destinations_Weekend Cruises" class="option">Weekend Cruises</label></li></ul></div> <!----></div></div> <div class="filter-footer"><ul class="options"><li><a title="Clear All" class="btn-blue clearall">Clear All</a></li> <li><a href="#" title="Update Filter" class="btn-orange">Update Filter</a></li></ul></div> <!----> <!----></div></div> <div class="widget-items"><ul class="items-list"><!----><li><a title="Alaska Cruises" class="items-link"><i class="ngi-icon-times-thin items-icon"></i> <span class="items-text">Alaska Cruises</span></a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div></li> <li class=""><a href="#" tabindex="1" title="Port" class="widget-link"><span class="link-text">Port</span></a> <div class="widget-box"><div class="filterbox"><div class="visible-phones phones-header"><ul class="options"><li><a title="Clear All" class="btn-cta btn-secondary clearall">Clear</a> <!----></li> <li><div class="info"><div class="title">Port</div> <div class="other">ALL (<span>1</span>)</div></div></li> <li><a href="#" title="Update Filter" class="btn-cta btn-primary">Done</a></li></ul></div> <div class="filter-header"><h3 class="title">Select One Or More Ports</h3> <div class="close"><a href="#" title="Close"><i class="ngi-icon"></i></a></div></div> <div class="filter-content"><div class="listing"><div class="listing-wrap"><ul id="ports" class="select" style="margin-top: 0px;"><li><input type="checkbox" id="ports_ICY" class="checkbox" value="ICY"> <label for="ports_ICY" class="option">Icy Strait Point, Alaska</label></li><li><input type="checkbox" id="ports_JNU" class="checkbox" value="JNU"> <label for="ports_JNU" class="option">Juneau, Alaska</label></li><li><input type="checkbox" id="ports_KTN" class="checkbox" value="KTN"> <label for="ports_KTN" class="option">Ketchikan, Alaska</label></li><li><input type="checkbox" id="ports_LAX" class="checkbox" value="LAX"> <label for="ports_LAX" class="option">Los Angeles, California</label></li><li><input type="checkbox" id="ports_PET" class="checkbox" value="PET"> <label for="ports_PET" class="option">Petropavlovsk, Russia</label></li><li><input type="checkbox" id="ports_SEA" class="checkbox" value="SEA"> <label for="ports_SEA" class="option">Seattle, Washington</label></li><li><input type="checkbox" id="ports_SIT" class="checkbox" value="SIT"> <label for="ports_SIT" class="option">Sitka, Alaska</label></li><li><input type="checkbox" id="ports_SGY" class="checkbox" value="SGY"> <label for="ports_SGY" class="option">Skagway, Alaska</label></li><li><input type="checkbox" id="ports_VAN" class="checkbox" value="VAN"> <label for="ports_VAN" class="option">Vancouver, British Columbia</label></li><li><input type="checkbox" id="ports_VIC" class="checkbox" value="VIC"> <label for="ports_VIC" class="option">Victoria, British Columbia</label></li></ul></div> <!----></div></div> <div class="filter-footer"><ul class="options"><li><a title="Clear All" class="btn-blue clearall">Clear All</a></li> <li><a href="#" title="Update Filter" class="btn-orange">Update Filter</a></li></ul></div> <!----> <!----></div></div> <div class="widget-items"><ul class="items-list"><!----><!----><!----><!----><!----><!----><!----><!----><li><a title="Vancouver, British Columbia" class="items-link"><i class="ngi-icon-times-thin items-icon"></i> <span class="items-text">Vancouver, British Columbia</span></a></li><!----></ul></div></li> <li class=""><a href="#" tabindex="1" title="Activity Type" class="widget-link"><span class="link-text">Activity Type</span></a> <div class="widget-box"><div class="filterbox"><div class="visible-phones phones-header"><ul class="options"><li><a title="Clear All" class="btn-cta btn-secondary clearall">Clear</a> <!----></li> <li><div class="info"><div class="title">Activity Type</div> <div class="other">ALL (<span>1</span>)</div></div></li> <li><a href="#" title="Update Filter" class="btn-cta btn-primary">Done</a></li></ul></div> <div class="filter-header"><h3 class="title">Select One Or More Activity Types</h3> <div class="close"><a href="#" title="Close"><i class="ngi-icon"></i></a></div></div> <div class="filter-content"><div class="listing"><div class="listing-wrap"><ul id="activities" class="select" style="margin-top: 0px;"><li><input disabled="disabled" type="checkbox" id="activities_Adventure" class="checkbox" value="Adventure"> <label for="activities_Adventure" class="option">Adventure</label></li><li><input disabled="disabled" type="checkbox" id="activities_Family" class="checkbox" value="Family"> <label for="activities_Family" class="option">Family</label></li><li><input type="checkbox" id="activities_Featured" class="checkbox" value="Featured"> <label for="activities_Featured" class="option">Featured</label></li><li><input disabled="disabled" type="checkbox" id="activities_Sightseeing" class="checkbox" value="Sightseeing"> <label for="activities_Sightseeing" class="option">Sightseeing</label></li></ul></div> <!----></div></div> <div class="filter-footer"><ul class="options"><li><a title="Clear All" class="btn-blue clearall">Clear All</a></li> <li><a href="#" title="Update Filter" class="btn-orange">Update Filter</a></li></ul></div> <!----> <!----></div></div> <!----></li></ul> <ul class="filter-extra"><li class=""><label class="form-label">Activity Level
+          <i role="button" data-content="<b>Level 1</b><br>Tours with this activity level involve walking over relatively level terrain, possibly some cobblestone, gravel, or a few steps. Comfortable shoes are recommended.<br><br><b>Level 2</b><br>Tours with this activity level involve a considerable amount of physical activity such as substantial walking over cobblestone streets, uneven or steep terrain, climbing stairs, or extended periods of standing. Not recommended for guests with physical limitations. Comfortable, sturdy shoes are recommended.<br><br><b>Level 3</b><br>Tours with this activity level involve physical exertion for extended periods of time; can involve uneven or steep terrain or swimming in a light current. Recommended only for physically fit and adventurous travelers.<br><br>" data-container="body" data-placement="bottom" data-trigger="hover" data-html="true" data-toggle="popover" data-original-title="" title="" class="ngi-icon-help pop-over"></i></label> <div class="form-field"><div class="control-level"><div class="level-column"><label for="activityLevel-0" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="activityLevel-0" name="activityLevel-0"></div> <div class="level level-1">1</div></label></div><div class="level-column"><label for="activityLevel-1" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="activityLevel-1" name="activityLevel-1"></div> <div class="level level-2">2</div></label></div><div class="level-column"><label for="activityLevel-2" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="activityLevel-2" name="activityLevel-2"></div> <div class="level level-3">3</div></label></div></div></div></li> <li class=""><label class="form-label">Duration</label> <div class="form-field"><label for="duration-0" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="duration-0" name="duration-0"></div> <div class="txt">0 To Less Than 3 Hrs.</div></label><label for="duration-1" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="duration-1" name="duration-1"></div> <div class="txt">3 To Less Than 5 Hrs.</div></label><label for="duration-2" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="duration-2" name="duration-2"></div> <div class="txt">5 To Less Than 7 Hrs.</div></label><label for="duration-3" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="duration-3" name="duration-3"></div> <div class="txt">7 To Less Than 10 Hrs.</div></label><label for="duration-4" class="control-label"><div class="btn icons-images stylish-checkbox"><input type="checkbox" autocomplete="off" id="duration-4" name="duration-4"></div> <div class="txt">10+ Hrs.</div></label></div></li> <li class=""><label class="form-label">Price</label> <div class="form-field"><div class="custom-slider"><div id="price-slider-legend" class="slider-legend"><span class="legend-column min">$0</span> <span class="legend-column extremes">$0-$3000</span> <span class="legend-column max">$3000</span></div> <div id="price-slider-values" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"><div class="ui-slider-range ui-corner-all ui-widget-header" style="width: 100%; left: 0%;"></div><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 0%;"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style="left: 100%;"></span></div></div></div></li> <li class=""><label class="form-label">Language</label> <div class="form-field"><select tabindex="-1" id="explore_language" name="language" class="form-control chosen-select" style="display: none;"><option value="">All Languages</option> <option value="French">French</option><option value="German">German</option><option value="Italian">Italian</option><option value="Mandarin">Mandarin</option><option value="Portuguese">Portuguese</option><option value="Russian">Russian</option><option value="Spanish">Spanish</option></select><div class="chosen-container chosen-container-single" title="" id="explore_language_chosen" style="width: 188px;"><a class="chosen-single">
+  <span>All Languages</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" tabindex="-1">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div></div></li></ul></div></div>
+
+<script type="text/javascript">
+        jQuery(document).ready(function () {
+              var mobileDetect = new MobileDetect(window.navigator.userAgent);
+              var isPhone = (mobileDetect.phone() !== null || $(window).innerWidth() < 768);
+              if( !isPhone ){// Only for desk
+                  jQuery( "#price-slider-values" ).slider({
+                      range: true,
+                      slide: function( event, ui ) {
+                          var localCurrencySymbol = currencySymbol || '$';
+                          jQuery( "#price-slider-legend .extremes" ).html(localCurrencySymbol + ui.values[ 0 ] + "-" + localCurrencySymbol + ui.values[ 1 ]);
+                       }
+                   });
+              }
+        });
+</script>
+          </aside>
+        </div>
+        <div class="content pull-right">
+          <section class="wrapper">
+            <div class="error-message" style="display: none">
+              Your previously chosen shore excursion is no longer available. Please make a new selection.
+            </div>
+          
+            <div class="paging-selection">
+              <div class="results-display">
+                <ul>
+                  <li><label>Display Results:</label></li>
+                  <li><a title="Gallery" class="ngi-icon-th" href="#"><span>Gallery</span></a></li>
+                  <li><a title="List" class="ngi-icon-th-list active" href="#"><span>List</span></a></li>
+                </ul>
+              </div>
+            </div>
+          
+            <div class="module-header visible-phones">
+              <h2 class="module-header-title">
+                <span class="first-line">Shore</span>
+                <span class="second-line">EXCURSIONS</span>
+              </h2>
+              <div class="module-header-count">(1)</div>
+            </div>
+            
+              <div class="holders-result">
+                <section class="block-holders">
+                  <div class="holders-header">
+                    <div class="header-columns">
+                      <h2 class="header-title visible-desktops">Shore Excursions <i class="count">(1)</i></h2>
+                      <div class="visible-phones">
+                        <a id="showLeftPush" data-in="#sap-menu-left" data-out="#page-shore-excursions" class="filter-link sap-menu-push-link" href="" title="Filters"><i class="ngi-icon-funnel"></i></a>
+                      </div>
+                    </div>
+                    <div class="header-columns">
+                      <div class="display-print visible-desktops">
+                        <a class="print-link" href="/shore-excursions/print?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12" target="_blank">
+                          <i class="ngi-icon-printer print-icon"></i><span class="print-text">Print</span>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="header-columns">
+                      <ul class="display-options">
+                        <li class="visible-desktops">
+                          <label class="form-label" for="explore_resultperpage">Results per page:</label>
+                          <select class="form-control chosen-select jquery-chosen-select select-pages" tabindex="-1" id="explore_resultperpage" name="resultperpage" data-scope="ShorexExplore" data-bind="perPage" data-bindselected="perPageSelected" onchange="NCL.explorePerPage_onChange.call(this, window.exploreUrl, qs)" style="display: none;"><option value="12" selected="selected">12</option><option value="24">24</option><option value="36">36</option><option value="48">48</option></select><div class="chosen-container chosen-container-single" title="" id="explore_resultperpage_chosen" style="width: 90px;"><a class="chosen-single">
+  <span>12</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" tabindex="-1">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                        </li>
+                        <li>
+                          <label class="visible-desktops form-label" for="explore_sortby">Sort by:</label>
+                          <select class="form-control chosen-select jquery-chosen-select select-sortby" tabindex="-1" id="explore_sortby" name="sortby" data-scope="ShorexExplore" data-bind="sortBy" data-bindselected="sortBySelected" onchange="NCL.explorePerPage_onChange.call(this, window.exploreUrl, qs)" style="display: none;"><option value="searchFeatured|desc">Relevance</option><option value="port|asc">Port</option><option value="price|asc">Price: Low to High</option><option value="price|desc">Price: High to Low</option><option value="rating|desc">Rating</option><option value="activityLevel|asc">Activity Level</option><option value="title|asc">Alphabetical</option></select><div class="chosen-container chosen-container-single" title="" id="explore_sortby_chosen" style="width: 130px;"><a class="chosen-single">
+  <span>Relevance</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" tabindex="-1">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <ul class="holders-list ng-scope" id="searchResults" ng-controller="FavoritesBrowseCtrl">
+                    
+<li>
+  <article>
+    <figure class="visible-phones">
+    
+        <a href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12">
+            <img src="/sites/default/files/VAN_02revimg0513_lg.jpg">
+        </a>
+        <figcaption>
+          <div class="quickview">
+            <a href="#quickView" data-toggle="modal" data-target="#quickView"><i class="ngi-icon-search"><span>Zoom</span></i>Quick view</a>
+          </div>
+            
+                <div class="featured">
+                    <i class="ngi-icon-star"><span>Star</span></i>Featured
+                </div>
+            
+            
+          <div class="wrapfavs">
+    <div class="savefavs" ng-class="{'active': isFavorite('VANN02', 'EXCURSION')}">
+        <a href="" title="Saved to favorites" ng-click="addRemoveFavoriteShorex(
+                    'VANN02',
+                    'Vancouver City Tour',
+                    'sites/default/files/VAN_02revimg0513_sm.jpg',
+                    'Vancouver, British Columbia',
+                    0,
+                    0.0)">
+            <i class="addfavs"><span>Saved to favorites</span></i>
+        </a>
+        <div class="msgfavs" ng-class="{'active': favoritePrompt}">
+            <div class="msgfavs-content">
+                <h5 class="msgfavs-title">Added to Favorites!</h5>
+                <div class="msgfavs-body" ng-class="{'active': favoritePrompt &amp;&amp; !isUserLoggedIn()}">
+                    <div class="msgfavs-text">Log In to save and share your favorites.</div>
+                    <a class="btn-cta btn-primary" href="/login" title="Log In">Log In</a>
+                </div>
+                <div class="msgfavs-footer">
+                    <div class="msgfavs-note">Prices are based on availability and subject to change.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </figcaption>
+    
+    </figure>
+      <figure class="visible-desktops">
+      
+          <a href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12">
+              <img src="/sites/default/files/VAN_02revimg0513_sm.jpg">
+          </a>
+          <figcaption>
+              <div class="quickview">
+                  <a href="#quickView" data-toggle="modal" data-target="#quickView"><i class="ngi-icon-search"><span>Zoom</span></i>Quick view</a>
+              </div>
+              
+                  <div class="featured">
+                      <i class="ngi-icon-star"><span>Star</span></i>Featured
+                  </div>
+              
+              
+              <div class="wrapfavs">
+    <div class="savefavs" ng-class="{'active': isFavorite('VANN02', 'EXCURSION')}">
+        <a href="" title="Saved to favorites" ng-click="addRemoveFavoriteShorex(
+                    'VANN02',
+                    'Vancouver City Tour',
+                    'sites/default/files/VAN_02revimg0513_sm.jpg',
+                    'Vancouver, British Columbia',
+                    0,
+                    0.0)">
+            <i class="addfavs"><span>Saved to favorites</span></i>
+        </a>
+        <div class="msgfavs" ng-class="{'active': favoritePrompt}">
+            <div class="msgfavs-content">
+                <h5 class="msgfavs-title">Added to Favorites!</h5>
+                <div class="msgfavs-body" ng-class="{'active': favoritePrompt &amp;&amp; !isUserLoggedIn()}">
+                    <div class="msgfavs-text">Log In to save and share your favorites.</div>
+                    <a class="btn-cta btn-primary" href="/login" title="Log In">Log In</a>
+                </div>
+                <div class="msgfavs-footer">
+                    <div class="msgfavs-note">Prices are based on availability and subject to change.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+          </figcaption>
+      
+      </figure>
+    <div class="details">
+      <div class="first-column">
+        <h2>
+            
+                <!--mp_trans_disable_start-->
+                <a href="/shore-excursions/VAN_02/Vancouver-City-Tour ?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12" title="Vancouver City Tour">Vancouver City Tour</a>
+                <!--mp_trans_disable_end-->
+            
+          
+        </h2>
+          
+              <h3>Vancouver, British Columbia</h3>
+          
+
+        <p class="visible-desktops duration">Duration 2  hrs </p>
+        <div class="description visible-desktops">
+            
+                
+                    <!--mp_trans_disable_start-->Nestled between a coastal mountain range and the Pacific Ocean, discover why Vancouver is ranked as one of the most livable cities in the world and why it was chosen to host the 2010 Winter Olympics.
+
+<!--mp_trans_disable_end-->
+                    
+                        <span class="extended pop-over" data-toggle="popover" data-html="true" data-placement="top" data-trigger="hover" data-container="body" data-content="<!--mp_trans_disable_start-->
+<p>The city of Vancouver, in the Canadian province of British Columbia, is a shining light in the Northwest and has been consistently ranked as one of the most livable cities in the world!  Join this tour and discover why it was chosen to host the 2010 Winter Olympics.  Departing the cruise pier you’ll head into the heart of downtown, a bustling urban environment surrounded by water and mountains.  </p>
+<br>
+<p>This tour will take you into the second largest Chinatown in North America, through the renovated and popular Gastown District and into Stanley Park, where the locals come to relax and play.  Stanley Park is larger in size than New York City’s Central Park, and is home to old growth trees and a spectacular display of First Nation Totem Poles.  You’ll have an opportunity to explore some of Stanley Park and take photos of the Mountain Range rising just outside of the city.  Keep your eyes peeled for game sites of the 2010 Olympics.  This tour will end at the Vancouver International Airport. </p>
+<br><!--mp_trans_disable_end-->" role="button" data-original-title="" title="">...</span>
+                    
+                
+                
+            
+
+        </div>
+        
+          
+              <div class="description visible-phones">
+              
+                  <!--mp_trans_disable_start-->Nestled between a coastal mountain range and the Pacific Ocean, discover why Vancouver is ranked as one of the most livable cities in the world and why it was chosen to host the 2010 Winter Olympics.
+
+<!--mp_trans_disable_end-->
+                  
+                      <span class="expanded">
+                          <a class="moretext" href="#">more...</a>
+                          <span class="data-content"><!--mp_trans_disable_start-->
+<p>The city of Vancouver, in the Canadian province of British Columbia, is a shining light in the Northwest and has been consistently ranked as one of the most livable cities in the world!  Join this tour and discover why it was chosen to host the 2010 Winter Olympics.  Departing the cruise pier you’ll head into the heart of downtown, a bustling urban environment surrounded by water and mountains.  </p>
+<br>
+<p>This tour will take you into the second largest Chinatown in North America, through the renovated and popular Gastown District and into Stanley Park, where the locals come to relax and play.  Stanley Park is larger in size than New York City’s Central Park, and is home to old growth trees and a spectacular display of First Nation Totem Poles.  You’ll have an opportunity to explore some of Stanley Park and take photos of the Mountain Range rising just outside of the city.  Keep your eyes peeled for game sites of the 2010 Olympics.  This tour will end at the Vancouver International Airport. </p>
+<br><!--mp_trans_disable_end-->
+                              <a class="lesstext" href="#">less</a>
+                          </span>
+                      </span>
+                  
+              
+              </div>
+          
+        <div class="price-different clearfix">
+          <ul class="price">
+            <li>Adult from: <strong><sup>$</sup>69.00 USD</strong></li>
+            <li>Child from: <strong><sup>$</sup>45.00 USD</strong></li>
+          </ul>
+        </div>
+      </div>
+      <div class="last-column">
+          
+              <div class="item">
+                  
+                  <div class="review">
+                  
+                        <a class="empty" title="No reviews yet" href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12">No reviews yet</a>
+                  
+                  </div>
+              </div>
+          
+        <div class="item duration"><span class="title">DURATION</span> <span class="value"><strong>2  hrs</strong></span></div>
+        <div class="item activity"><span class="title">ACTIVITY LEVEL</span>
+          <span class="extended level level-1 pop-over" data-toggle="popover" data-html="true" data-trigger="hover" data-placement="left" data-container="body" data-content="<!--mp_trans_disable_start-->Tours with this activity level involve walking over relatively level terrain, possibly some cobblestone, gravel, or a few steps. Comfortable shoes are recommended.<!--mp_trans_disable_end-->" role="button" data-original-title="" title="">1</span></div>
+
+          
+
+          
+      </div>
+    
+        <div class="center-column visible-desktops">
+            <div class="moreselect">
+                <a class="btn-orange more" href="/shore-excursions/VAN_02/Vancouver-City-Tour?destination=Alaska+Cruises&amp;port=VAN&amp;sort=searchWeight&amp;sortOrder=asc&amp;perPage=12" title="More details">
+                    More details</a>
+            </div>
+        </div>
+    
+    </div>
+  </article>
+</li>
+
+                  </ul>
+                  
+                    <div class="visible-desktops paged-hoders">
+                      
+                      <span>1-1 </span>
+                      <small>of</small>
+                      <span>1</span>
+                      
+                    </div>
+
+                  
+                  
+                  
+                    <div class="disclaimer-holders">
+                    <p>*Prices vary by ship and sail date. See <a href="/terms/shorex-dining-entertainment-spa" target="_blank">Terms &amp; Conditions</a></p>
+
+<p>NCL makes arrangements for Guests for shore excursions solely for the convenience of the Guest; NCL does not act on behalf of or supervise the parties or persons who own, furnish, or operate such excursions, and the same are provided by independent contractors. NCL assumes no responsibility for, nor guarantees the performance of, any such excursion provider, and Guests acknowledge that NCL shall not be liable for losses or injuries arising from the acts or omissions of such provider.</p>
+
+<!-- mp_trans_remove_start="DE-DE,DE-CH,PT-BR,JA-JP,IT-IT,FR-FR,HE-IL,ES-ES,ES-US,ES-MX,ES-AR" -->
+
+<p>Participation in activities and excursions may involve physical exertion, and may be potentially hazardous or dangerous. It is the responsibility of each individual to determine whether you are capable of engaging in any activity. Participation in any activity or excursion is at your own risk.</p>
+
+<p>Photographs are for illustration purposes only used to represent the excursion experience and may not accurately depict the excursion, location, or activity indicated.</p>
+<!--mp_trans_remove_end--> 
+ 
+<!--mp_trans_add="DE-DE,DE-CH" 
+
+<p>Die Teilnahme an Aktivitäten und Exkursionen kann körperlich anstrengend sein und unter Umständen Risiken und Gefahren beinhalten. Jeder einzelne Gast trägt die Verantwortung dafür, einzuschätzen, ob er/sie in der Lage ist, an entsprechenden Aktivitäten teilzunehmen. Die Teilnahme an Aktivitäten und Exkursionen erfolgt auf eigene Gefahr.</p>
+
+<p>Die Fotos dienen ausschließlich zur Veranschaulichung der Exkursionserfahrung und bilden möglicherweise die entsprechende Exkursion, den Ort oder die Aktivität nicht akkurat ab.</p>
+
+-->
+ 
+
+<!--mp_trans_add="PT-BR" 
+
+<p>A participação em atividades e excursões pode envolver esforço físico e pode ser perigosa. É sua responsabilidade determinar se você é capaz de participar das atividades. A participação em qualquer atividade ou excursão é por sua conta e risco.</p>
+
+<p>As fotos são apenas para fins ilustrativos, usadas para representar a experiência da excursão e podem não retratar com precisão a localização ou atividade indicada.</p>
+
+-->
+
+<!--mp_trans_add="JA-JP" 
+
+<p>アクティビティや寄港地観光ツアーには激しい活動を行うものもあり、危険が伴う場合もあります。 内容がご自身に適したものかは各自でご判断ください。 アクティビティや寄港地観光ツアーへは、あくまでもご自身の責任でご参加いただきますようお願いいたします。</p>
+
+<p>写真は寄港地観光ツアーの体験を表現するためのもので、実際のツアーや場所、アクティビティとは異なる場合があります。</p>
+
+-->
+
+<!--mp_trans_add="IT-IT" 
+
+<p>La partecipazione ad attività ed escursioni potrebbe prevedere sforzi fisici e potrebbe essere potenzialmente rischiosa o pericolosa. È responsabilità di ciascun individuo stabilire se si è in grado di partecipare a qualsiasi attività. La partecipazione a qualunque attività o escursione è a proprio rischio e pericolo.</p>
+
+<p>Le fotografie utilizzate per raffigurare l'escursione sono unicamente a fini illustrativi e potrebbero non rappresentare accuratamente l'escursione, il luogo o l'attività indicata.</p>
+
+-->
+
+<!--mp_trans_add="FR-FR" 
+
+<p>La participation aux activités et excursions peut demander un effort physique et peut parfois être potentiellement dangereuse. Il revient à toute personne de déterminer si elle est capable de participer à une activité ou non. La participation à toute activité ou excursion se fait à vos propres risques.</p>
+
+<p>Les photos sont affichées à titre d'illustration uniquement et de représentation de l'expérience et peuvent ne pas représenter l'excursion, le lieu ou l'activité indiqués avec précision.</p>
+
+-->
+
+<!--mp_trans_add="HE-IL" 
+
+<p>השתתפות בפעילויות ובסיורים עשויה לכלול מאמץ פיזי, ועלולה להיות מסוכנת. זוהי אחריותו של כל אדם לקבוע האם הוא מסוגל להשתתף בכל פעילות. השתתפות בכל פעילות או סיור היא על אחריותכם בלבד.</p>
+
+<p>תמונות מוצגות לצורך הדגמה בלבד, הן משמשות כדי לייצג את חוויית הסיור ועלולות שלא לתאר במדויק את הסיור, המיקום או הפעילות.</p>
+
+-->
+
+<!--mp_trans_add="ES-ES,ES-US,ES-MX,ES-AR" 
+
+<p>La participación en actividades y excursiones puede implicar un esfuerzo físico, por lo que puede ser potencialmente peligroso. Es responsabilidad de cada persona determinar si es capaz de realizar alguna actividad. La participación en cualquier actividad o excursión queda bajo la responsabilidad del huésped.<p>
+
+<p>Las fotografías son solo para fines ilustrativos y se utilizan para representar la experiencia de la excursión y es posible que no reflejen con precisión la excursión, el lugar o la actividad indicada.</p>
+
+-->
+
+<!--mp_trans_remove_start="EN-DE,EN-CH,EN-FR,EN-IT,EN-ES"-->
+<p>Our group shore excursions are offered in English. Depending on the booking situation, various excursions are also offered in German, Spanish, French, Italian or Russian (minimum number of 30 participants). The tours offered may vary from cruise to cruise. Please see the detailed information for your shore excursion on board.</p>
+<!--mp_trans_remove_end-->
+
+<!--—mp_trans_add="EN-DE,EN-CH,EN-FR,EN-IT,EN-ES,EN-UK"
+Our shore excursions are offered in English language as a group programme. Depending on the booking situation, various excursions are also offered in German, Spanish, French, Italian or Russian (minimum number of 30 participants). The tours offered may vary from cruise to cruise. Please see the detailed information in your shore excursion programme on board.
+---->
+
+<!--mp_trans_disable_start--><!--mp_trans_add="DE-DE,DE-CH"
+Unsere Landausflüge werden generell in englischer Sprache als Gruppenprogramm durchgeführt. Verschiedene Ausflüge werden je nach Buchungslage auch in Deutsch, Spanisch, Französisch, Italienisch oder Russisch durchgeführt (ab 30 Personen Mindestteilnehmerzahl). Die angebotenen Touren variieren von Kreuzfahrt zu Kreuzfahrt. Bitte beachten Sie die Detailinformationen in Ihrem Ausflugsprogrammangebot an Bord.
+--><!--mp_trans_disable_end-->
+
+<!--mp_trans_disable_start--><!--—mp_trans_add="ES-ES"
+Nuestras excursiones en tierra se ofrecen en inglés como parte de nuestro programa para grupos. Según la situación de la reserva, algunas excursiones también se ofrecen en alemán, español, francés, italiano o ruso (número mínimo de 30 participantes). Los tours ofrecidos pueden variar de un crucero a otro. Consulta la información detallada de tu programa de excursiones en tierra que se encuentra a bordo.
+----><!--mp_trans_disable_end-->
+
+<!--mp_trans_disable_start--><!--—mp_trans_add="IT-IT"
+Le nostre escursioni a terra sono offerte in lingua inglese come programma di gruppo. A seconda della prenotazione, varie escursioni sono offerte anche in tedesco, spagnolo, francese, italiano o russo (numero minimo di 30 partecipanti). I tour offerti possono variare da una crociera all'altra. Consulta le informazioni dettagliate all'interno del tuo programma di escursioni a terra presente a bordo.
+----><!--mp_trans_disable_end-->
+
+<!--mp_trans_disable_start--><!--—mp_trans_add="FR-FR"
+Nos excursions à terre sont proposées en anglais en programme de groupe. Selon les réservations, plusieurs excursions sont également proposées en allemand, en espagnol, en français, en italien ou en russe (minimum de participants : 30). Les circuits proposés peuvent varier d'une croisière à l'autre. Pour plus d'informations, veuillez consulter votre programme des excursions à terre à bord.
+----><!--mp_trans_disable_end-->
+                    </div>
+                  
+                </section>
+              </div>
+            
+          </section>
+        </div>
+      </section>
+      <div class="backtotop affix-top" data-spy="affix" data-offset-top="34">
+    <a class="backtotop-link" title="Up" href="#">
+        <i class="ngi-icon-arrow-up backtotop-icon"></i> <span class="backtotop-text">Back to top</span>
+    </a>
+</div>
+    </div>
+
+    <!-- Start Modal -->
+    <div id="videoView" class="modal fade videoView" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="holders-result">
+              <section class="block-holders">
+                <div class="header-holders">
+                  <h2 class="videoHeader"></h2>
+                  <div>
+                    <a href="" data-dismiss="modal"><i class="ngi-icon modal-close"><span>Close</span></i></a>
+                  </div>
+                </div>
+                <div class="holders-video embed-responsive embed-responsive-16by9">
+                  <iframe id="playerIframe" src="" width="100%" height="330" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                </div>
+                <div class="videoClose">
+                  <a href="" data-dismiss="modal" title="Shore Excursions">Back To Shore Excursions</a>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+<script src="/shore-excursions/assets/dist/ShorexLib.min.js?v=1594740520459"></script>
+<script type="text/javascript">
+
+  
+  window.lastSeenDestination = [
+    'Alaska Cruises'
+  ];
+  
+  
+  window.lastSeenPort = [
+    'VAN'
+  ];
+  
+
+  let pagination = {"startRecord":1,"endRecord":1,"nPages":1,"currentPage":1,"recordsPerPage":12,"nMatchingRecords":10,"nAggregateRecords":1};
+  window.exploreUrl =  '/shore-excursions/search';
+  window.qs = '?destination=Alaska+Cruises&port=VAN&sort=searchWeight&sortOrder=asc&perPage=12';
+
+  Shorex.exploreFilters({
+    destinations: [{"code":"Africa Cruises","title":"Africa Cruises","isSelected":false,"isAvailable":false},{"code":"Alaska Cruises","title":"Alaska Cruises","isSelected":true,"isAvailable":true},{"code":"Asia Cruises","title":"Asia Cruises","isSelected":false,"isAvailable":false},{"code":"Bahamas Cruises","title":"Bahamas Cruises","isSelected":false,"isAvailable":false},{"code":"Bermuda Cruises","title":"Bermuda Cruises","isSelected":false,"isAvailable":false},{"code":"Caribbean Cruises","title":"Caribbean Cruises","isSelected":false,"isAvailable":false},{"code":"Extraordinary Journeys","title":"Extraordinary Journeys","isSelected":false,"isAvailable":false},{"code":"Hawaii Cruises","title":"Hawaii Cruises","isSelected":false,"isAvailable":true},{"code":"Mediterranean Cruises","title":"Mediterranean Cruises","isSelected":false,"isAvailable":false},{"code":"Mexican Riviera Cruises","title":"Mexican Riviera Cruises","isSelected":false,"isAvailable":false},{"code":"Northern Europe Cruises","title":"Northern Europe Cruises","isSelected":false,"isAvailable":false},{"code":"Pacific Coastal Cruises","title":"Pacific Coastal Cruises","isSelected":false,"isAvailable":true},{"code":"Panama Canal Cruises","title":"Panama Canal Cruises","isSelected":false,"isAvailable":false},{"code":"South America Cruises","title":"South America Cruises","isSelected":false,"isAvailable":false},{"code":"Transatlantic Cruises","title":"Transatlantic Cruises","isSelected":false,"isAvailable":false},{"code":"Weekend Cruises","title":"Weekend Cruises","isSelected":false,"isAvailable":false}],
+    ports: [{"code":"ICY","title":"Icy Strait Point, Alaska","isSelected":false,"isAvailable":true},{"code":"JNU","title":"Juneau, Alaska","isSelected":false,"isAvailable":true},{"code":"KTN","title":"Ketchikan, Alaska","isSelected":false,"isAvailable":true},{"code":"LAX","title":"Los Angeles, California","isSelected":false,"isAvailable":true},{"code":"PET","title":"Petropavlovsk, Russia","isSelected":false,"isAvailable":true},{"code":"SEA","title":"Seattle, Washington","isSelected":false,"isAvailable":true},{"code":"SIT","title":"Sitka, Alaska","isSelected":false,"isAvailable":true},{"code":"SGY","title":"Skagway, Alaska","isSelected":false,"isAvailable":true},{"code":"VAN","title":"Vancouver, British Columbia","isSelected":true,"isAvailable":true},{"code":"VIC","title":"Victoria, British Columbia","isSelected":false,"isAvailable":true}],
+    activities: [{"code":"Adventure","title":"Adventure","isSelected":false,"isAvailable":false},{"code":"Family","title":"Family","isSelected":false,"isAvailable":false},{"code":"Featured","title":"Featured","isSelected":false,"isAvailable":true},{"code":"Sightseeing","title":"Sightseeing","isSelected":false,"isAvailable":false}],
+    activityLevels: [{"code":"Level 1","title":"Level 1","isSelected":false,"isAvailable":true},{"code":"Level 2","title":"Level 2","isSelected":false,"isAvailable":false},{"code":"Level 3","title":"Level 3","isSelected":false,"isAvailable":false}],
+    durations: [{"code":"0 To Less Than 3 Hrs.","title":"0 To Less Than 3 Hrs.","isSelected":false,"isAvailable":true},{"code":"3 To Less Than 5 Hrs.","title":"3 To Less Than 5 Hrs.","isSelected":false,"isAvailable":false},{"code":"5 To Less Than 7 Hrs.","title":"5 To Less Than 7 Hrs.","isSelected":false,"isAvailable":false},{"code":"7 To Less Than 10 Hrs.","title":"7 To Less Than 10 Hrs.","isSelected":false,"isAvailable":false},{"code":"10+ Hrs.","title":"10+ Hrs.","isSelected":false,"isAvailable":false}],
+    priceRange: [{"code":"$0 To $124","title":"$0 To $124","isSelected":false,"isAvailable":true},{"code":"$125 To $199","title":"$125 To $199","isSelected":false,"isAvailable":false},{"code":"$200 To $399","title":"$200 To $399","isSelected":false,"isAvailable":false},{"code":"$400 And Up","title":"$400 And Up","isSelected":false,"isAvailable":false}],
+    languages: ["French","German","Italian","Mandarin","Portuguese","Russian","Spanish"],
+    pagination: {"startRecord":1,"endRecord":1,"nPages":1,"currentPage":1,"recordsPerPage":12,"nMatchingRecords":10,"nAggregateRecords":1},
+    languageSelected: '',
+    exploreUrl: window.exploreUrl,
+    queryString: '?sort=searchWeight&perPage=12',
+    nAggregateRecords: 1,
+    shorexMobileApiFiltersUrl: NCLResources.urls.shorexMobileApiFilters
+  });
+
+  
+  window.ShorexExplore = {
+    sortBySelected: 'searchWeight'
+                  + '|asc',
+    sortBy: [{"id":"searchFeatured|desc","text":"Relevance"},{"id":"port|asc","text":"Port"},{"id":"price|asc","text":"Price: Low to High"},{"id":"price|desc","text":"Price: High to Low"},{"id":"rating|desc","text":"Rating"},{"id":"activityLevel|asc","text":"Activity Level"},{"id":"title|asc","text":"Alphabetical"}],
+    perPageSelected: '12',
+    perPage: ["12","24","36","48"]
+  };
+
+</script>
+
+<div id="modal-dialog-loading" class="modal fade modal-dialog-loading" tabindex="-1" role="dialog" aria-labelledby="registerModalLoading" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="modal-ajax">
+          <div class="modal-ajax-cell modal-ajax-text">Updating...</div>
+          <div class="modal-ajax-cell modal-ajax-loading"><img src="/static/images/anime/ajax-loader-dark.gif" alt="Icon"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div><script id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y" async=""></script>
+         <div class="redesign"><footer id="footer" class="footer bg-light -border" data-analytics-region="utility_footer_nav"><section class="wrapper bg-dark -bg-dark"><div class="container"><!-- m31 --><section class="m31"><div class="wrapper"><div class="container"><div class="m31_card"><div class="row align-items-center justify-content-end"><div class="col-md-auto"><div class="quote -medium">Sign up to get the hottest cruise deals!</div></div><div class="col-md-auto"><!-- c118 --><div class="c118"><form class="c118_form ng-pristine ng-valid" data-js="promo-email-form" id="signup-field-email-footer"><div class="c118_wrap"><div class="c118_input"><div class="form-group"><input type="email" class="form-control promo_email" aria-label="email" placeholder="Your Email Address" data-js="promo-email-input"></div></div><div class="c118_button"><a class="btn btn-secondary site-modal" href="/ncl_inside_scoop" data-leads="true" data-js="promo-email-button" title="Sign Up To Get SPECIAL OFFERS"><i class="nis-arrow-right icon"></i></a></div></div></form></div></div></div></div></div></div></section><!-- m1 --><div class="m1"><div class="m1_header"><div class="row"><div class="col-md-12"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-white.svg" alt="Norwegian Cruise Line"></a></div></div></div></div><div class="m1_body"><div class="row"><div class="col-md-8 col-lg-6"><div class="row"><div class="col-md-6 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title footerLabel" href="#" title="The Norwegian Difference" aria-label="The Norwegian Difference" data-toggle="collapse-compatibility" data-target="#c2-collapse-The-Norwegian-Difference" aria-expanded="false">The Norwegian Difference</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-The-Norwegian-Difference"><ul class="listing -block"><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian" title="The Freestyle Experience">The Freestyle Experience</a></li><li class="listing_item"><a class="simpleText" href="/vacations" title="Cruises">Cruises</a></li><li class="listing_item"><a class="simpleText" href="/cruise-ship" title="Cruise Ships">Cruise Ships</a></li><li class="listing_item"><a class="simpleText" href="/cruise-destinations" title="Cruise Destinations">Cruise Destinations</a></li><li class="listing_item"><a class="simpleText" href="/port-of-call" title="Ports">Ports</a></li><li class="listing_item"><a class="simpleText" href="/norwegian-edge" title="The Norwegian Edge">The Norwegian Edge</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/cruise-dining" title="Dining">Dining</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/cruise-entertainment" title="Entertainment">Entertainment</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/cruise-accommodations" title="Accommodations">Accommodations</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/cruise-accommodations/the-haven" title="The Haven">The Haven</a></li><li class="listing_item"><a class="simpleText" href="/latitudes-rewards-program" title="Latitudes Rewards">Latitudes Rewards</a></li><li class="listing_item"><a class="simpleText" href="/travel-blog" title="NCL Travel Blog">NCL Travel Blog</a></li><li class="listing_item"><span class="textGray">Need Help Planning?</span><div class="dropdown -variant-1"><a class="linkText -small dropdown-toggle" data-toggle="dropdown-compatibility" href="#">Top Cruise Destinations</a><div class="dropdown-menu"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/cruise-destinations/alaska-cruises" title="ALASKA CRUISES">ALASKA CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/bahamas-cruises" title="BAHAMAS CRUISES">BAHAMAS CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/bermuda-cruises" title="BERMUDA CRUISES ">BERMUDA CRUISES </a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/caribbean-cruises" title="CARIBBEAN CRUISES">CARIBBEAN CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/mediterranean-cruises" title="MEDITERRANEAN CRUISES">MEDITERRANEAN CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/hawaii-cruises" title="HAWAII CRUISES">HAWAII CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations" title="Other Cruise Destinations">Other Cruise Destinations</a></li></ul></div></div></li></ul></div></div></div></div><div class="col-md-6 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title footerLabel" href="#" title="Cruising Essentials" aria-label="Cruising Essentials" data-toggle="collapse-compatibility" data-target="#c2-collapse-Cruising-Essentials" aria-expanded="false">Cruising Essentials</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Cruising-Essentials"><ul class="listing -block"><li class="listing_item"><a class="simpleText" href="/new-to-cruising" title="New To Cruising">New To Cruising</a></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/prepare-for-your-cruise" title="Prepare For Your Cruise">Prepare For Your Cruise</a></li><li class="listing_item"><a class="simpleText" href="/order-a-brochure" title="Order a Brochure">Order a Brochure</a></li><li class="listing_item"><a class="simpleText" href="/about/accessible-cruising" title="Accessible Cruising">Accessible Cruising</a></li><li class="listing_item"><a class="simpleText" href="/downloads/overview" title="Apps &amp; Downloads">Apps &amp; Downloads</a></li><li class="listing_item"><span class="textGray">Need Help Finding a Cruise? </span><a class="simpleText" href="/recommend-vacations/start" title="Try Cruise Coach">Try Cruise Coach</a></li><li class="listing_item"><a class="simpleText" href="/faq" title="FAQ">FAQ</a></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/cruise-travel-documents" title="Required Documents">Required Documents</a></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/booksafe" title="Booksafe Travel Protection">Booksafe Travel Protection</a></li><li class="listing_item"><a class="simpleText" href="/sites/default/files/CruiseIndustryPassengerBillofRights052313.pdf" title="Passenger Bill of Rights">Passenger Bill of Rights</a></li><li class="listing_item"><a class="simpleText" href="/sites/default/files/NCL_Guest_Ticket_Contract_041818.pdf" title="Guest Ticket Contract">Guest Ticket Contract</a></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/getting-to-the-pier" title="Getting to the Pier">Getting to the Pier</a></li><li class="listing_item"><a class="simpleText" href="/about/contact-us" title="Contact Us">Contact Us</a></li><li class="listing_item"><span class="textGray">Need Help Planning? </span><a class="simpleText" href="/help/leads" data-leads="true" title="Speak with a Consultant">Speak with a Consultant</a></li></ul></div></div></div></div></div></div><div class="col-md-4 col-lg-6"><div class="row"><div class="col-md-12 col-lg-6"><!-- c2 --><div class="c2 -marginBottom"><div class="c2_header"><a class="c2_title footerLabel" href="#" title="Specials &amp; Themed Cruising" aria-label="Specials &amp; Themed Cruising" data-toggle="collapse-compatibility" data-target="#c2-collapse-Specials---Themed-Cruising" aria-expanded="false">Specials &amp; Themed Cruising</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Specials---Themed-Cruising"><ul class="listing -block"><li class="listing_item"><a class="simpleText" href="/cruise-deals" title="All Cruise Deals">All Cruise Deals</a></li><li class="listing_item"><a class="simpleText" href="/onboard-gifts" title="Onboard Gifts">Onboard Gifts</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/cruise-shopping" title="Shopping">Shopping</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/family-cruises" title="Family Cruises">Family Cruises</a></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/solo-cruising" title="Singles Cruises">Singles Cruises</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/casino-cruise" title="Casino Cruises">Casino Cruises</a></li><li class="listing_item"><a class="simpleText" href="/theme-cruises" title="Music Themed Cruises">Music Themed Cruises</a></li><li class="listing_item"><a class="simpleText" href="/events" title="Meetings &amp; Incentives">Meetings &amp; Incentives</a></li><li class="listing_item"><a class="simpleText" href="/why-cruise-norwegian/group-cruises" title="Group &amp; Special Occasion Cruises">Group &amp; Special Occasion Cruises</a></li></ul></div></div></div></div><div class="col-md-12 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title footerLabel" href="#" title="Our Company" aria-label="Our Company" data-toggle="collapse-compatibility" data-target="#c2-collapse-Our-Company" aria-expanded="false">Our Company</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Our-Company"><ul class="listing -block"><li class="listing_item"><a class="simpleText" href="/about" title="About Norwegian">About Norwegian</a></li><li class="listing_item"><a class="simpleText" href="http://www.nclhltdinvestor.com" target="_blank" title="For Investors">For Investors</a></li><li class="listing_item"><a class="simpleText" href="/about/security-information" title="Safety &amp; Security">Safety &amp; Security</a></li><li class="listing_item"><a class="simpleText" href="/about/environmental-commitment" title="Environmental Commitment">Environmental Commitment</a></li><li class="listing_item"><a class="simpleText" href="/about/careers/overview" title="Careers">Careers</a></li><li class="listing_item"><a class="simpleText" href="/media-center" title="Media Center">Media Center</a></li><li class="listing_item"><a class="simpleText" href="/partners" title="Norwegian Partnerships">Norwegian Partnerships</a></li><li class="listing_item"><a class="simpleText" href="/international-offices" title="International Locations">International Locations</a></li></ul></div></div></div><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title footerLabel" href="#" title="Travel Partners" aria-label="Travel Partners" data-toggle="collapse-compatibility" data-target="#c2-collapse-Travel-Partners" aria-expanded="false">Travel Partners</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Travel-Partners"><ul class="listing -block"><li class="listing_item"><a class="simpleText" href="http://norwegiancentral.ncl.com" title="Partner Login">Partner Login</a></li><li class="listing_item"><a class="simpleText" href="/agent-locator" title="Find a Travel Agency">Find a Travel Agency</a></li></ul></div></div></div></div></div></div></div></div></div><!-- m2 --><div class="m2"><div class="m2_header"><!-- c3 --><div class="c3"><ul class="listing -inline -centered"><li class="listing_item"><span class="textGray">© 2020 Norwegian Cruise Line Holdings Ltd.</span></li><li class="listing_item"><a class="simpleText" href="/freestyle-cruise/legal-notice" title="Legal Notice">Legal Notice</a></li><li class="listing_item"><a class="simpleText" href="/about-us/privacy-policy" title="Privacy Policy">Privacy Policy</a></li><li class="listing_item"><a class="simpleText" href="/case-submission/ccpa" title="CA Residents Only: Do Not Sell My Personal Information">CA Residents Only: Do Not Sell My Personal Information</a></li><li class="listing_item"><a class="simpleText" href="/sitemap" title="Sitemap">Sitemap</a></li><li class="listing_item"><a class="simpleText" href="https://assistivesite.ncl.com" title="Assistive Site">Assistive Site</a></li><li class="listing_item"><div class="dropdown -variant-1"><a id="currentLangLink" class="linkText -small dropdown-toggle" data-toggle="dropdown-compatibility" href="#" title="English" aria-label=""><span class="text">English</span></a><div class="dropdown-menu"><ul class="listing -block"><li class="listing_item linkItem"><a href="//es.ncl.com" data-toggle="es.ncl.com|es|us|ncl"><span id="lang-type" class="text">Español</span></a></li></ul></div></div></li></ul><div class="hide"><span id="mobile-toggle" style="display:block!important"></span></div></div></div><div class="m2_body"><ul class="listing -icons -centered"><li class="listing_item"><a class="m2_link" target="_blank" href="http://pinterest.com/norwegiancruise/" title="Pinterest" aria-label="Pinterest"><i class="icon-social nis-pinterest"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="https://www.facebook.com/Norwegiancruiseline" title="Facebook" aria-label="Facebook"><i class="icon-social nis-facebook"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="http://instagram.com/norwegiancruiseline" title="Instagram" aria-label="Instagram"><i class="icon-social nis-instagram"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="http://www.twitter.com/cruisenorwegian" title="Twitter" aria-label="Twitter"><i class="icon-social nis-twitter"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="https://www.youtube.com/user/NCLFreestyle" title="Youtube" aria-label="Youtube"><i class="icon-social nis-youtube"></i></a></li></ul></div></div><!-- m3 --><div class="m3"><div class="m3_header" data-analytics-region="mod_mastercard_promo"><!-- c4 --><a class="c4" href="https://secure.bankofamerica.com/applynow/initialize-workflow.go?requesttype=ICAO&amp;campaignid=4045224&amp;genericvariables=861~NCLNHPFoot" title="20,000 Bonus Points Offer" aria-label="20,000 Bonus Points Offer" target="_blank" rel="noopener"><figure class="c4_figure"><img class="c4_image" src="/sites/default/files/63x40_Corners_EDITED-Footer_radz_wldcm_mc_201911007.png" alt="Credit Card -Alt"><figcaption class="c4_figcaption"><span class="c4_figcaption_item linkText -large">20,000 Bonus Points Offer</span><span class="c4_figcaption_item simpleText"> <br>Residents of the US and its territories only. See full disclosure for details.</span></figcaption></figure></a></div><div class="m3_body"><div class="m3_copy"><a class="m3_copy_item linkText -large" href="/cruise-destinations/caribbean-cruises" title="Awards" aria-label="Awards">Awards</a><p class="m3_copy_item textGray">Voted <span class="simpleText">"The Caribbean's Leading Cruise Line"</span> 2013-2019 by World Travel Awards</p></div></div></div></div></section></footer></div> 
+        <!--mp_linkcode_begins-->
+<script type="text/javascript" src="/static/scripts/analytics/mp_linkcode.js?v=1594740520459"></script>
+<!--mp_linkcode_ends-->
+<!-- mp_snippet_begins -->
+<script>
+    (function () {
+        var mpel_toggle = document.createElement('script');
+        mpel_toggle.type = 'text/javascript';
+        mpel_toggle.async = true;
+        mpel_toggle.src = 'https://norwegiancruiseline.mpeasylink.com/mpel/mpel_toggle.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.appendChild(mpel_toggle);
+        if (typeof MP !== 'undefined') {
+            MP.UrlLang = 'mp_js_current_lang';
+            MP.SrcUrl = decodeURIComponent('mp_js_orgin_url');
+            MP.oSite = decodeURIComponent('mp_js_origin_baseUrl');
+            MP.tSite = decodeURIComponent('mp_js_translated_baseUrl');
+            MP.init();
+        }
+    })();
+</script>
+<!-- mp_snippet_ends -->
+<!--mp_easylink_begins-->
+<script type="text/javascript" id="mpelid" src="//norwegiancruiseline.mpeasylink.com/mpel/mpel.js" async=""></script>
+<!--mp_easylink_ends-->
+
+<!-- organization_schema begins -->
+<script type="application/ld+json">
+ {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Norwegian Cruise Line",
+    "legalName": "Norwegian Cruise Line Holdings Ltd",
+    "url": "https://www.ncl.com",
+    "logo": "https://www.ncl.com/assets/v1/images/logos/logo-ncl-black.svg",
+    "areaServed": "US",
+    "foundingDate": "1966",
+    "founders": [{
+            "@type": "Person",
+            "name": "Knut Kloster"
+        },
+        {
+            "@type": "Person",
+            "name": "Ted Arison"
+        }
+    ],
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "7665 Corporate Center Drive",
+        "addressLocality": "Miami",
+        "addressRegion": "FL",
+        "postalCode": "33126",
+        "addressCountry": "USA"
+    },
+    "contactPoint": [{
+            "@type": "ContactPoint",
+            "telephone": "+1 1-800-234-7350",
+            "contactType": "customer care"
+        },
+        {
+            "@type": "ContactPoint",
+            "telephone": "+1 1-800-234-7350",
+            "contactType": "reservations"
+        }
+    ],
+    "sameAs": [
+        "https://www.facebook.com/Norwegiancruiseline/",
+        "https://twitter.com/cruisenorwegian",
+        "https://plus.google.com/+norwegiancruiseline",
+        "https://www.youtube.com/user/NCLFreestyle",
+        "https://www.pinterest.com/norwegiancruise/",
+        "https://www.instagram.com/norwegiancruiseline/",
+        "https://www.linkedin.com/company/165222/",
+        "https://en.wikipedia.org/wiki/Norwegian_Cruise_Line"
+    ]
+}
+</script>
+    <!-- organization_schema ends -->
+
+    <script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/public/e9e2663d8no249e269f561f43abcd58']); </script><script type="text/javascript" src="/public/e9e2663d8no249e269f561f43abcd58"></script>
+
+<urscrub><iframe src="https://cdn.userreplay.net/us18230f9114c46b7a9c473ec77a99cfc8a_v295.html" data-ur-storage="true" name="URStorage" title="Capture Storage Endpoint" aria-hidden="true" style="display: none; width: 1px; height: 1px; border: none; visibility: hidden;"></iframe></urscrub><div class="compatibility"><section id="bootstrap_modal" class="modal fade modal-leads" tabindex="-1" role="dialog" aria-labelledby="modal" aria-hidden="true"></section></div><style type="text/css"> #page-booking-funnel .panels-steps>.panel.opened{ background:#245F85; } .panels-steps>.panel>.panel-heading{ color:#999999; text-transform:uppercase; } #page-booking-funnel .panels-steps>#step4panel1.panel>.panel-heading{ color: #000000; } #page-booking-funnel .panels-steps>.panel.opened>.panel-heading{ font-size:18px; } </style><urscrub><iframe src="https://cdn.userreplay.net/us18230f9114c46b7a9c473ec77a99cfc8a_v295.html" data-ur-storage="true" name="URStorage" title="Capture Storage Endpoint" aria-hidden="true" style="display: none; width: 1px; height: 1px; border: none; visibility: hidden;"></iframe></urscrub><iframe src="//universal.iperceptions.com/iFrame.html" id="iPerceptionsFrame" title="iPerceptionsFrame" style="display: none;"></iframe>                <style type="text/css">
+                    body div.needlepoint { display: none !important; } 
+                /* Standard */
+                
+				.embeddedServiceHelpButton .helpButton .uiButton {
+                    background-color: #20557A;
+                    font-family: "Arial", sans-serif;
+                }
+            
+                .embeddedServiceHelpButton .helpButton .uiButton:focus {
+                    outline: 1px solid #20557A;
+                }
+            
+                /* Standard END */
+            
+                /* Custom Styles */
+
+                .message {
+                    background-color: #20557A;
+                    border: none;
+                    color: white;
+                    padding: 0px;
+                    margin: 4px 4px;
+                    font-size: larger;
+                }
+            
+                .embeddedServiceLiveAgentStateChatUnreadMessageBanner .message {
+                    background-color: #fff;
+                    color: #333333;
+                }
+            
+                .embeddedServiceSidebarFormField .slds-style-inputtext:focus,
+                .embeddedServiceSidebarFormField .slds-style-select:focus {
+                    border: 1px solid #0A84BD;
+                    box-shadow: 0 0 2px 0 #0A84BD;
+                }
+            
+                .embeddedServiceSidebarMinimizedDefaultUI {
+                    background: #20557a;
+                }
+            
+                .embeddedServiceLiveAgentStateChatPlaintextMessageDefaultUI.chasitor.plaintextContent {
+                    background-color: #C7C8C9;
+                    color: #333333;
+                }
+            
+                .embeddedServiceHelpButton .uiButton {
+                    max-width: 18em;
+                }
+            
+                .buttonWrapper.embeddedServiceSidebarForm>button.startButton,
+                .buttonWrapper.embeddedServiceSidebarForm>button.startButton:hover {
+                    background-color: #F5A225;
+                }
+            
+                .dialogButtonContainer>button.dialogButton.dialog-button-0.uiButton.embeddedServiceSidebarButton:hover,
+                .dialogButtonContainer>button.dialogButton.dialog-button-0.uiButton.embeddedServiceSidebarButton:focus,
+                .endChatContainer>button.uiButton.embeddedServiceSidebarButton:hover,
+                .endChatContainer>button.uiButton.embeddedServiceSidebarButton:focus {
+                    background: #20557a;
+                }
+            
+                ul>li.wrapper.chatMessage.agent>div.chatContent>div.plaintextContent {
+                    background-color: #f2f2f2;
+                }
+            
+                .loadingBallContainer .loadingBall {
+                    background-color: #50AACF;
+                }
+            
+                ul>li.inputText.embeddedServiceSidebarFormField {
+                    display: none;
+                }
+            
+                .embeddedServiceHelpButton,
+                .embeddedServiceSidebar.modalContainer {
+                    z-index: 1000;
+                }
+            
+                .uiInputDefaultError:after {
+                    display: none;
+                }
+            
+                div.embeddedServiceHelpButton>div.helpButton>button.helpButtonDisabled {
+                    visibility: hidden;
+                } 
+            
+                div.modalContainer a:hover {
+                    color: #50AACF;
+                    text-decoration-line: none;
+                }
+            
+                div.modalContainer button:focus {
+                    text-decoration-line: none;
+                }
+            
+                .embeddedServiceHelpButton .helpButton,
+                .embeddedServiceSidebar .helpButton.embeddedServiceSidebarMinimizedDefaultUI,
+                .embeddedServiceSidebar.layout-docked .dockableContainer {
+                    left: 12px;
+                }
+
+                @media only screen and (max-width: 768px) {
+                    .embeddedServiceSidebar.layout-docked .dockableContainer, 
+                    .embeddedServiceSidebar.layout-float .dockableContainer {
+                        left: 0px;
+                        height: calc(100% - 80px);
+                        margin: 60px auto;
+                    }
+                }
+                /* Custom Styles END */
+            </style>
+            <script type="text/javascript" id="" src="https://service.force.com/embeddedservice/5.0/esw.min.js"></script><iframe id="universal_pixel_e3bn5i4" height="0" width="0" style="display:none;" src="https://insight.adsrvr.org/track/up?adv=uv7gy3o&amp;ref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;upid=e3bn5i4&amp;upv=1.1.0" title="TTD Universal Pixel"></iframe><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.39108820438098224"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.687359539249885" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=4016364&amp;Ver=2&amp;mid=11be0316-b345-8f8d-7ed2-b2dab6f5713e&amp;sid=9b7beaf88983cd7e5e4efec9e083727e&amp;vid=e6584a7fb29f3c547e2f90b23cd9c1eb&amp;vids=0&amp;pi=1200101525&amp;lg=en-US&amp;sw=1440&amp;sh=900&amp;sc=30&amp;tl=Alaska%20Cruises%20%7C%20Vancouver,%20British%20Columbia%20%7C%20Shore%20Excursions%20%7C%20Norwegian%20Cruise%20Line&amp;p=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN&amp;r=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions&amp;lt=2696&amp;evt=pageLoad&amp;msclkid=N&amp;sv=1&amp;rn=258565"></div><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://9706277.fls.doubleclick.net/activityi;src=9706277;type=norw;cat=norwe003;ord=1;num=5508166274663;gtm=2od783;auiddc=581805602.1594949917;~oref=https%3A%2F%2Fwww.ncl.com%2Fshore-excursions%2Fsearch%3Fdestination%3DAlaska%2BCruises%26port%3DVAN?"></iframe><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe>
+            <script type="text/javascript" id="">function isAfterHours(){var a=(new Date).toLocaleString("en-US",{timeZone:"America/New_York"});a=new Date(a);var b=a.getDay();a=a.getHours();return 0===b||6===b?22<=a||8>a:8>a}
+var initESW=function(a){isAfterHours()?(embedded_svc.settings.displayHelpButton=!0,embedded_svc.settings.language="",embedded_svc.settings.defaultMinimizedText="Chat with an Agent",embedded_svc.settings.extraPrechatFormDetails=[{label:"First Name",transcriptFields:["First_Name__c"]},{label:"Last Name",transcriptFields:["Last_Name__c"]}],embedded_svc.settings.enabledFeatures=["LiveAgent"],embedded_svc.settings.entryFeature="LiveAgent",embedded_svc.init("https://nclh.my.salesforce.com","https://ncl.secure.force.com/liveAgentSite",
+a,"00DE0000000aUlY","Chat_Bot_ES",{baseLiveAgentContentURL:"https://c.la3-c2-ia2.salesforceliveagent.com/content",deploymentId:"5722S000000Co9a",buttonId:"5732S000000CqS8",baseLiveAgentURL:"https://d.la3-c2-ia2.salesforceliveagent.com/chat",eswLiveAgentDevName:"EmbeddedServiceLiveAgent_Parent04I2S000000XZJQUA4_1704080d6d4",isOfflineSupportEnabled:!1})):(embedded_svc.settings.displayHelpButton=!0,embedded_svc.settings.language="",embedded_svc.settings.defaultMinimizedText="Chat with an Agent",embedded_svc.settings.disabledMinimizedText=
+"Offline",embedded_svc.settings.directToButtonRouting=function(a){0>a[0].value.indexOf(" ")&&(a[0].value=a[0].value+" "+a[1].value);if("Help me with planning a new cruise"===a[2].value)return"5732S000000CqRt";a[3].value="New case from chat";return"5732S000000CqRy"},embedded_svc.settings.enabledFeatures=["LiveAgent"],embedded_svc.settings.entryFeature="LiveAgent",embedded_svc.init("https://nclh.my.salesforce.com","https://ncl.secure.force.com/liveAgentSite",a,"00DE0000000aUlY","Chat_Team",{baseLiveAgentContentURL:"https://c.la3-c2-ia2.salesforceliveagent.com/content",
+deploymentId:"5722S000000Co9a",buttonId:"5732S000000CqRo",baseLiveAgentURL:"https://d.la3-c2-ia2.salesforceliveagent.com/chat",eswLiveAgentDevName:"EmbeddedServiceLiveAgent_Parent04I2S000000XZJ6UAO_16d83ac2837",isOfflineSupportEnabled:!1}))};if(window.embedded_svc)initESW("https://service.force.com");else{var s=document.createElement("script");s.setAttribute("src","https://nclh.my.salesforce.com/embeddedservice/5.0/esw.min.js");s.onload=function(){initESW(null)};document.body.appendChild(s)};</script><script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/utils/common.min.js"></script><script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/client/liveagent.esw.min.js"></script><form id="fileUploadForm" enctype="multipart/form-data" method="post" target="fileUploadIframe"><input type="file" id="fileSelector" name="file" style="display: none;"><input name="filename" type="hidden"></form><iframe id="fileUploadIframe" name="fileUploadIframe" title="FileUploadFrame" style="display: none;"></iframe><iframe id="esw_storage_iframe" src="https://service.force.com/embeddedservice/5.0/esw.html?parent=https://www.ncl.com/shore-excursions/search?destination=Alaska+Cruises&amp;port=VAN" style="display: none;"></iframe><script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/client/invite.esw.min.js"></script><div class="embeddedServiceHelpButton"><div class="helpButton"><button class="uiButton helpButtonEnabled" href="javascript:void(0)"><span class="embeddedServiceIcon" aria-hidden="true" data-icon="" style="display: inline-block;"></span><span class="helpButtonLabel" id="helpButtonSpan" aria-live="polite" aria-atomic="true"><span class="assistiveText">Live chat:</span><span class="message">Chat with an Agent</span></span></button></div></div><script type="text/javascript" src="https://service.force.com/embeddedservice/5.0/utils/inert.min.js"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
